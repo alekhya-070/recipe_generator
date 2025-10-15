@@ -88,12 +88,7 @@ def personalize_recommendations(
     if not favorites:
         return []
 
-    # Include "south indian" and "healthy" (if applicable) in dietary preferences for stronger bias
     diet_pref_set = set(x.lower() for x in dietary_prefs)
-    diet_pref_set.add("south indian")
-    # You might want to add "healthy" if you explicitly tag recipes as such in your dataset or Gemini output.
-    # For now, relying on the prompt to Gemini for "mostly healthy".
-
     cuisine_scores = {}
     dietary_scores = {}
 
@@ -114,17 +109,12 @@ def personalize_recommendations(
             continue
         # Basic dietary match
         tags = set(x.lower() for x in r.get("dietary", []))
-        diet_match = len(diet_pref_set & tags) # Enhanced to consider "south indian" and other healthy tags
+        diet_match = len(diet_pref_set & tags)
         # Cuisine affinity
         cscore = cuisine_scores.get(r.get("cuisine", "").lower(), 0)
         # Dietary affinity
         dscore = sum(dietary_scores.get(t.lower(), 0) for t in r.get("dietary", []))
         total = diet_match * 2 + cscore + dscore
-        
-        # Further boost if it's explicitly South Indian
-        if "south indian" in tags:
-            total += 5 # Arbitrary boost value
-
         candidates.append((total, r))
 
     candidates.sort(key=lambda x: x[0], reverse=True)
