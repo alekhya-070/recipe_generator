@@ -114,7 +114,7 @@ Dietary preferences: {dietary_str}
 Target difficulty: {difficulty_str}
 Max prep time: {max_prep_time} minutes
 Target servings: {servings}
-Please generate {n_recipes} diverse, realistic recipes that use the ingredients where possible. 
+Please generate {n_recipes} diverse, realistic **South Indian and mostly healthy** recipes that use the ingredients where possible.
 Offer reasonable substitutions for missing items. Use clear, concise steps.
 Return JSON only.
 """
@@ -135,7 +135,12 @@ Return JSON only.
                     # Ensure required fields exist
                     r.setdefault("id", r.get("name", "").lower().replace(" ", "-")[:60])
                     r.setdefault("servings", servings)
-                    r.setdefault("dietary", [])
+                    # Add "South Indian" to dietary if not present
+                    if "dietary" not in r:
+                        r["dietary"] = []
+                    if "south indian" not in [x.lower() for x in r["dietary"]]:
+                        r["dietary"].append("South Indian")
+                    
                     r.setdefault("ingredients", [])
                     r.setdefault("steps", [])
                     r.setdefault("nutrition", {})
