@@ -1,549 +1,462 @@
 [
   {
-    "id": "lemon-garlic-chicken",
-    "name": "Lemon Garlic Chicken",
-    "cuisine": "American",
+    "id": "pesarattu-telugu",
+    "name": "Pesarattu (Green Moong Dal Dosa)",
+    "cuisine": "Telugu",
     "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 15,
+    "servings": 4,
+    "prep_time": 240,
     "cook_time": 20,
-    "dietary": ["High-protein", "Low-carb", "Gluten-free"],
+    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy", "High-protein"],
     "ingredients": [
-      { "name": "chicken breast", "quantity": 2, "unit": "pieces" },
-      { "name": "garlic", "quantity": 3, "unit": "cloves" },
-      { "name": "lemon", "quantity": 1, "unit": "" },
-      { "name": "olive oil", "quantity": 1, "unit": "tbsp" },
-      { "name": "parsley", "quantity": 2, "unit": "tbsp" },
-      { "name": "salt", "quantity": 0.5, "unit": "tsp" },
-      { "name": "black pepper", "quantity": 0.5, "unit": "tsp" }
+      { "name": "green moong dal (whole)", "quantity": 1, "unit": "cup" },
+      { "name": "rice flour", "quantity": 0.25, "unit": "cup" },
+      { "name": "ginger", "quantity": 1, "unit": "inch" },
+      { "name": "green chilies", "quantity": 2, "unit": "" },
+      { "name": "cumin seeds", "quantity": 1, "unit": "tsp" },
+      { "name": "finely chopped onion", "quantity": 0.5, "unit": "" },
+      { "name": "oil", "quantity": null, "unit": "for cooking" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
     ],
     "steps": [
-      "Pound chicken to even thickness.",
-      "Mix oil, lemon juice, minced garlic, salt, and pepper.",
-      "Coat chicken and marinate 10 minutes.",
-      "Sear chicken 4–5 minutes per side until cooked through.",
-      "Garnish with chopped parsley and serve."
+      "Wash and soak green moong dal for at least 4 hours or overnight.",
+      "Drain water. Grind the soaked dal, ginger, green chilies, and cumin seeds with minimal water to a smooth batter. Add rice flour and salt; mix well.",
+      "Heat a tawa. Pour a ladleful of batter and spread it into a thin dosa. Sprinkle chopped onion on top if desired.",
+      "Drizzle oil around the edges and cook until golden brown and crisp.",
+      "Serve hot with ginger chutney (allam pachadi)."
     ],
-    "nutrition": { "calories": 380, "protein": 45, "fat": 18, "carbs": 6 },
+    "nutrition": { "calories": 320, "protein": 18, "fat": 8, "carbs": 45 },
     "substitutions": [
-      "Use chicken thighs instead of breast.",
-      "Swap parsley with cilantro or basil.",
-      "Butter can replace olive oil."
+      "Add a handful of finely chopped coriander leaves to the batter.",
+      "Serve with plain yogurt or sambar."
     ]
   },
   {
-    "id": "garlic-shrimp-pasta",
-    "name": "Garlic Shrimp Pasta",
-    "cuisine": "Italian",
+    "id": "gongura-pulihora-telugu",
+    "name": "Gongura Pulihora (Sorrel Leaves Rice)",
+    "cuisine": "Telugu",
     "difficulty": "Medium",
-    "servings": 2,
+    "servings": 3,
     "prep_time": 15,
-    "cook_time": 15,
-    "dietary": [],
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy"],
     "ingredients": [
-      { "name": "spaghetti", "quantity": 200, "unit": "g" },
-      { "name": "shrimp", "quantity": 250, "unit": "g" },
-      { "name": "garlic", "quantity": 4, "unit": "cloves" },
-      { "name": "olive oil", "quantity": 2, "unit": "tbsp" },
-      { "name": "butter", "quantity": 1, "unit": "tbsp" },
-      { "name": "lemon", "quantity": 0.5, "unit": "" },
-      { "name": "parsley", "quantity": 2, "unit": "tbsp" }
+      { "name": "cooked rice (cooled)", "quantity": 3, "unit": "cups" },
+      { "name": "gongura leaves (sorrel)", "quantity": 2, "unit": "cups" },
+      { "name": "green chilies", "quantity": 4, "unit": "" },
+      { "name": "peanut oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "mustard seeds", "quantity": 1, "unit": "tsp" },
+      { "name": "urad dal", "quantity": 1, "unit": "tsp" },
+      { "name": "chana dal", "quantity": 1, "unit": "tsp" },
+      { "name": "peanuts", "quantity": 0.25, "unit": "cup" },
+      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
+      { "name": "asafoetida", "quantity": 0.25, "unit": "tsp" },
+      { "name": "turmeric powder", "quantity": 0.5, "unit": "tsp" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
     ],
     "steps": [
-      "Cook pasta until al dente.",
-      "Sauté garlic in oil and butter.",
-      "Add shrimp and cook until pink.",
-      "Toss in pasta, lemon juice, and parsley.",
-      "Season and serve."
+      "Wash gongura leaves thoroughly. Sauté them with 2 green chilies in a little oil until they wilt and soften. Cool and grind to a coarse paste.",
+      "Heat peanut oil in a large pan. Add mustard seeds, urad dal, chana dal, and peanuts. Fry until dals are golden and peanuts are roasted.",
+      "Add remaining green chilies, curry leaves, and asafoetida. Sauté for a minute.",
+      "Add turmeric powder and the gongura paste. Cook for 5-7 minutes, stirring, until oil separates.",
+      "Add the cooled rice and salt. Mix gently but thoroughly, ensuring the rice is coated evenly with the paste.",
+      "Serve warm."
     ],
-    "nutrition": { "calories": 520, "protein": 32, "fat": 18, "carbs": 62 },
+    "nutrition": { "calories": 380, "protein": 7, "fat": 15, "carbs": 55 },
     "substitutions": [
-      "Use linguine or fettuccine instead of spaghetti.",
-      "Chicken can replace shrimp.",
-      "Add chili flakes for heat."
+      "For extra tanginess, add a small piece of tamarind while grinding the gongura.",
+      "Garnish with roasted cashews."
     ]
   },
   {
-    "id": "veggie-stir-fry",
-    "name": "Veggie Stir-Fry",
-    "cuisine": "Asian",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 10,
-    "dietary": ["Vegan", "Vegetarian"],
-    "ingredients": [
-      { "name": "broccoli", "quantity": 150, "unit": "g" },
-      { "name": "bell pepper", "quantity": 1, "unit": "" },
-      { "name": "carrot", "quantity": 1, "unit": "" },
-      { "name": "soy sauce", "quantity": 2, "unit": "tbsp" },
-      { "name": "garlic", "quantity": 2, "unit": "cloves" },
-      { "name": "ginger", "quantity": 1, "unit": "tsp" },
-      { "name": "sesame oil", "quantity": 1, "unit": "tsp" }
-    ],
-    "steps": [
-      "Heat oil in a wok.",
-      "Add minced garlic and ginger.",
-      "Stir-fry vegetables until crisp-tender.",
-      "Add soy sauce and toss.",
-      "Serve with rice or noodles."
-    ],
-    "nutrition": { "calories": 220, "protein": 8, "fat": 7, "carbs": 32 },
-    "substitutions": ["Tamari for gluten-free soy sauce.", "Add tofu for protein.", "Use any seasonal vegetables."]
-  },
-  {
-    "id": "quinoa-salad",
-    "name": "Mediterranean Quinoa Salad",
-    "cuisine": "Mediterranean",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 15,
-    "cook_time": 15,
-    "dietary": ["Vegetarian", "Gluten-free"],
-    "ingredients": [
-      { "name": "quinoa", "quantity": 150, "unit": "g" },
-      { "name": "cucumber", "quantity": 0.5, "unit": "" },
-      { "name": "tomato", "quantity": 1, "unit": "" },
-      { "name": "red onion", "quantity": 0.25, "unit": "" },
-      { "name": "feta", "quantity": 60, "unit": "g" },
-      { "name": "olive oil", "quantity": 1, "unit": "tbsp" },
-      { "name": "lemon", "quantity": 0.5, "unit": "" }
-    ],
-    "steps": ["Cook quinoa and cool.", "Chop vegetables and feta.", "Toss with oil and lemon.", "Season and serve."],
-    "nutrition": { "calories": 420, "protein": 16, "fat": 14, "carbs": 56 },
-    "substitutions": ["Omit feta for vegan option.", "Add chickpeas for more protein.", "Use lime instead of lemon."]
-  },
-  {
-    "id": "tofu-curry",
-    "name": "Coconut Tofu Curry",
-    "cuisine": "Indian",
-    "difficulty": "Medium",
-    "servings": 2,
-    "prep_time": 15,
-    "cook_time": 20,
-    "dietary": ["Vegan", "Vegetarian", "Gluten-free"],
-    "ingredients": [
-      { "name": "tofu", "quantity": 250, "unit": "g" },
-      { "name": "coconut milk", "quantity": 200, "unit": "ml" },
-      { "name": "onion", "quantity": 1, "unit": "" },
-      { "name": "garam masala", "quantity": 1, "unit": "tsp" },
-      { "name": "curry powder", "quantity": 1, "unit": "tbsp" },
-      { "name": "garlic", "quantity": 3, "unit": "cloves" },
-      { "name": "ginger", "quantity": 1, "unit": "tsp" }
-    ],
-    "steps": [
-      "Sauté onion, garlic, and ginger.",
-      "Add spices and toast briefly.",
-      "Stir in coconut milk and simmer.",
-      "Add tofu cubes and cook until heated.",
-      "Serve with rice."
-    ],
-    "nutrition": { "calories": 480, "protein": 22, "fat": 28, "carbs": 36 },
-    "substitutions": ["Chickpeas instead of tofu.", "Use light coconut milk to reduce fat.", "Add spinach or peas."]
-  },
-  {
-    "id": "beef-tacos",
-    "name": "Beef Tacos",
-    "cuisine": "Mexican",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 15,
-    "dietary": [],
-    "ingredients": [
-      { "name": "ground beef", "quantity": 250, "unit": "g" },
-      { "name": "taco seasoning", "quantity": 1, "unit": "tbsp" },
-      { "name": "tortillas", "quantity": 6, "unit": "small" },
-      { "name": "lettuce", "quantity": 2, "unit": "leaves" },
-      { "name": "tomato", "quantity": 1, "unit": "" },
-      { "name": "cheddar", "quantity": 60, "unit": "g" }
-    ],
-    "steps": ["Brown beef and add seasoning.", "Warm tortillas.", "Assemble with toppings.", "Serve immediately."],
-    "nutrition": { "calories": 650, "protein": 34, "fat": 32, "carbs": 55 },
-    "substitutions": ["Use turkey or beans for a lighter option.", "Corn tortillas for gluten-free."]
-  },
-  {
-    "id": "salmon-teriyaki",
-    "name": "Teriyaki Salmon",
-    "cuisine": "Japanese",
-    "difficulty": "Medium",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 15,
-    "dietary": ["High-protein"],
-    "ingredients": [
-      { "name": "salmon fillet", "quantity": 2, "unit": "pieces" },
-      { "name": "soy sauce", "quantity": 2, "unit": "tbsp" },
-      { "name": "mirin", "quantity": 1, "unit": "tbsp" },
-      { "name": "sugar", "quantity": 1, "unit": "tbsp" },
-      { "name": "garlic", "quantity": 1, "unit": "clove" }
-    ],
-    "steps": [
-      "Marinate salmon in teriyaki mixture.",
-      "Sear salmon until flaky.",
-      "Reduce sauce and glaze.",
-      "Serve with rice."
-    ],
-    "nutrition": { "calories": 520, "protein": 38, "fat": 26, "carbs": 24 },
-    "substitutions": ["Tamari for gluten-free.", "Honey instead of sugar."]
-  },
-  {
-    "id": "greek-salad",
-    "name": "Greek Salad",
-    "cuisine": "Greek",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 0,
-    "dietary": ["Vegetarian", "Gluten-free", "Low-carb"],
-    "ingredients": [
-      { "name": "cucumber", "quantity": 1, "unit": "" },
-      { "name": "tomato", "quantity": 2, "unit": "" },
-      { "name": "red onion", "quantity": 0.5, "unit": "" },
-      { "name": "feta", "quantity": 80, "unit": "g" },
-      { "name": "olives", "quantity": 50, "unit": "g" },
-      { "name": "olive oil", "quantity": 1, "unit": "tbsp" }
-    ],
-    "steps": ["Chop vegetables.", "Toss with oil and season.", "Add feta and olives.", "Serve fresh."],
-    "nutrition": { "calories": 320, "protein": 10, "fat": 24, "carbs": 16 },
-    "substitutions": ["Omit feta for vegan option.", "Add chickpeas for protein."]
-  },
-  {
-    "id": "shakshuka",
-    "name": "Shakshuka",
-    "cuisine": "Middle Eastern",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 20,
-    "dietary": ["Vegetarian", "Gluten-free", "Low-carb"],
-    "ingredients": [
-      { "name": "eggs", "quantity": 4, "unit": "" },
-      { "name": "tomato", "quantity": 4, "unit": "" },
-      { "name": "onion", "quantity": 1, "unit": "" },
-      { "name": "garlic", "quantity": 3, "unit": "cloves" },
-      { "name": "paprika", "quantity": 1, "unit": "tsp" },
-      { "name": "cumin", "quantity": 0.5, "unit": "tsp" }
-    ],
-    "steps": [
-      "Sauté onion and garlic.",
-      "Add tomatoes and spices; simmer.",
-      "Crack eggs into sauce.",
-      "Cover and cook until set.",
-      "Serve with bread."
-    ],
-    "nutrition": { "calories": 380, "protein": 20, "fat": 24, "carbs": 20 },
-    "substitutions": ["Add feta or spinach.", "Use canned tomatoes."]
-  },
-  {
-    "id": "lentil-soup",
-    "name": "Hearty Lentil Soup",
-    "cuisine": "Global",
-    "difficulty": "Easy",
-    "servings": 4,
-    "prep_time": 10,
-    "cook_time": 30,
-    "dietary": ["Vegan", "Vegetarian", "Gluten-free"],
-    "ingredients": [
-      { "name": "lentils", "quantity": 250, "unit": "g" },
-      { "name": "carrot", "quantity": 2, "unit": "" },
-      { "name": "celery", "quantity": 2, "unit": "stalks" },
-      { "name": "onion", "quantity": 1, "unit": "" },
-      { "name": "garlic", "quantity": 3, "unit": "cloves" },
-      { "name": "vegetable broth", "quantity": 1, "unit": "L" }
-    ],
-    "steps": [
-      "Sauté onion, carrot, and celery.",
-      "Add garlic and lentils.",
-      "Pour broth and simmer until tender.",
-      "Season to taste."
-    ],
-    "nutrition": { "calories": 260, "protein": 14, "fat": 3, "carbs": 45 },
-    "substitutions": ["Add tomatoes for depth.", "Spinach near the end."]
-  },
-  {
-    "id": "avocado-toast",
-    "name": "Avocado Toast with Egg",
-    "cuisine": "American",
-    "difficulty": "Easy",
-    "servings": 1,
-    "prep_time": 5,
-    "cook_time": 5,
-    "dietary": ["Vegetarian"],
-    "ingredients": [
-      { "name": "bread", "quantity": 1, "unit": "slice" },
-      { "name": "avocado", "quantity": 0.5, "unit": "" },
-      { "name": "egg", "quantity": 1, "unit": "" },
-      { "name": "olive oil", "quantity": 1, "unit": "tsp" }
-    ],
-    "steps": ["Toast bread.", "Mash avocado on toast.", "Fry or poach egg.", "Top toast with egg, salt, and pepper."],
-    "nutrition": { "calories": 320, "protein": 12, "fat": 22, "carbs": 20 },
-    "substitutions": ["Use whole-grain bread.", "Add chili flakes or tomatoes."]
-  },
-  {
-    "id": "caprese-salad",
-    "name": "Caprese Salad",
-    "cuisine": "Italian",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 0,
-    "dietary": ["Vegetarian", "Gluten-free", "Low-carb"],
-    "ingredients": [
-      { "name": "tomato", "quantity": 2, "unit": "" },
-      { "name": "mozzarella", "quantity": 120, "unit": "g" },
-      { "name": "basil", "quantity": 10, "unit": "leaves" },
-      { "name": "olive oil", "quantity": 1, "unit": "tbsp" }
-    ],
-    "steps": ["Slice tomatoes and mozzarella.", "Layer with basil.", "Drizzle oil and season."],
-    "nutrition": { "calories": 300, "protein": 16, "fat": 22, "carbs": 8 },
-    "substitutions": ["Use balsamic glaze.", "Add arugula for peppery bite."]
-  },
-  {
-    "id": "turkey-chili",
-    "name": "Turkey Chili",
-    "cuisine": "American",
+    "id": "gutti-vankaya-koora-telugu",
+    "name": "Gutti Vankaya Koora (Stuffed Brinjal Curry)",
+    "cuisine": "Telugu",
     "difficulty": "Medium",
     "servings": 4,
-    "prep_time": 15,
-    "cook_time": 45,
-    "dietary": ["High-protein", "Gluten-free"],
+    "prep_time": 25,
+    "cook_time": 40,
+    "dietary": ["Vegetarian", "Gluten-free", "Healthy"],
     "ingredients": [
-      { "name": "ground turkey", "quantity": 500, "unit": "g" },
-      { "name": "kidney beans", "quantity": 400, "unit": "g" },
-      { "name": "tomato", "quantity": 2, "unit": "" },
-      { "name": "onion", "quantity": 1, "unit": "" },
-      { "name": "chili powder", "quantity": 1, "unit": "tbsp" },
-      { "name": "cumin", "quantity": 1, "unit": "tsp" }
-    ],
-    "steps": ["Brown turkey with onion.", "Add spices and tomatoes.", "Stir in beans; simmer.", "Adjust seasoning."],
-    "nutrition": { "calories": 420, "protein": 35, "fat": 12, "carbs": 42 },
-    "substitutions": ["Use black beans.", "Add corn or bell pepper."]
-  },
-  {
-    "id": "miso-soup",
-    "name": "Miso Soup",
-    "cuisine": "Japanese",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 5,
-    "cook_time": 10,
-    "dietary": ["Vegetarian"],
-    "ingredients": [
-      { "name": "dashi broth", "quantity": 500, "unit": "ml" },
-      { "name": "miso paste", "quantity": 1, "unit": "tbsp" },
-      { "name": "tofu", "quantity": 100, "unit": "g" },
-      { "name": "scallions", "quantity": 2, "unit": "" }
-    ],
-    "steps": ["Warm dashi.", "Dissolve miso off heat.", "Add tofu and scallions.", "Serve hot."],
-    "nutrition": { "calories": 120, "protein": 9, "fat": 4, "carbs": 12 },
-    "substitutions": ["Add wakame seaweed.", "Use vegetable broth."]
-  },
-  {
-    "id": "chickpea-salad",
-    "name": "Chickpea Salad",
-    "cuisine": "Mediterranean",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 0,
-    "dietary": ["Vegan", "Vegetarian", "Gluten-free"],
-    "ingredients": [
-      { "name": "chickpeas", "quantity": 240, "unit": "g" },
-      { "name": "cucumber", "quantity": 0.5, "unit": "" },
-      { "name": "tomato", "quantity": 1, "unit": "" },
-      { "name": "red onion", "quantity": 0.25, "unit": "" },
-      { "name": "lemon", "quantity": 0.5, "unit": "" },
-      { "name": "olive oil", "quantity": 1, "unit": "tbsp" }
-    ],
-    "steps": ["Rinse chickpeas.", "Chop vegetables.", "Toss with oil and lemon.", "Season and serve."],
-    "nutrition": { "calories": 380, "protein": 14, "fat": 10, "carbs": 58 },
-    "substitutions": ["Add herbs like parsley.", "Use lime instead of lemon."]
-  },
-  {
-    "id": "pesto-pasta",
-    "name": "Pesto Pasta",
-    "cuisine": "Italian",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 10,
-    "dietary": ["Vegetarian"],
-    "ingredients": [
-      { "name": "pasta", "quantity": 200, "unit": "g" },
-      { "name": "pesto", "quantity": 3, "unit": "tbsp" },
-      { "name": "parmesan", "quantity": 30, "unit": "g" }
-    ],
-    "steps": ["Cook pasta.", "Toss with pesto.", "Top with parmesan."],
-    "nutrition": { "calories": 560, "protein": 18, "fat": 20, "carbs": 78 },
-    "substitutions": ["Use whole-wheat pasta.", "Add cherry tomatoes."]
-  },
-  {
-    "id": "vegan-burrito-bowl",
-    "name": "Vegan Burrito Bowl",
-    "cuisine": "Mexican",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 15,
-    "cook_time": 15,
-    "dietary": ["Vegan", "Vegetarian"],
-    "ingredients": [
-      { "name": "rice", "quantity": 150, "unit": "g" },
-      { "name": "black beans", "quantity": 240, "unit": "g" },
-      { "name": "corn", "quantity": 100, "unit": "g" },
-      { "name": "avocado", "quantity": 1, "unit": "" },
-      { "name": "salsa", "quantity": 3, "unit": "tbsp" }
-    ],
-    "steps": ["Cook rice.", "Warm beans and corn.", "Assemble with avocado and salsa.", "Season to taste."],
-    "nutrition": { "calories": 560, "protein": 16, "fat": 18, "carbs": 86 },
-    "substitutions": ["Use quinoa instead of rice.", "Add tofu or seitan."]
-  },
-  {
-    "id": "grilled-cheese-tomato-soup",
-    "name": "Grilled Cheese & Tomato Soup",
-    "cuisine": "American",
-    "difficulty": "Easy",
-    "servings": 2,
-    "prep_time": 5,
-    "cook_time": 15,
-    "dietary": ["Vegetarian"],
-    "ingredients": [
-      { "name": "bread", "quantity": 4, "unit": "slices" },
-      { "name": "cheddar", "quantity": 120, "unit": "g" },
-      { "name": "butter", "quantity": 2, "unit": "tbsp" },
-      { "name": "tomato soup", "quantity": 500, "unit": "ml" }
-    ],
-    "steps": ["Butter bread and add cheese.", "Grill until golden.", "Heat tomato soup.", "Serve together."],
-    "nutrition": { "calories": 700, "protein": 24, "fat": 40, "carbs": 60 },
-    "substitutions": ["Use sourdough.", "Add tomato slices."]
-  },
-  {
-    "id": "chicken-fried-rice",
-    "name": "Chicken Fried Rice",
-    "cuisine": "Chinese",
-    "difficulty": "Medium",
-    "servings": 2,
-    "prep_time": 10,
-    "cook_time": 15,
-    "dietary": [],
-    "ingredients": [
-      { "name": "rice", "quantity": 250, "unit": "g" },
-      { "name": "chicken breast", "quantity": 200, "unit": "g" },
-      { "name": "egg", "quantity": 2, "unit": "" },
-      { "name": "peas", "quantity": 80, "unit": "g" },
-      { "name": "carrot", "quantity": 1, "unit": "" },
-      { "name": "soy sauce", "quantity": 2, "unit": "tbsp" }
+      { "name": "small brinjals (eggplant)", "quantity": 8, "unit": "pieces" },
+      { "name": "onion", "quantity": 1, "unit": "medium" },
+      { "name": "ginger-garlic paste", "quantity": 1, "unit": "tbsp" },
+      { "name": "red chili powder", "quantity": 1.5, "unit": "tsp" },
+      { "name": "coriander powder", "quantity": 2, "unit": "tsp" },
+      { "name": "cumin powder", "quantity": 1, "unit": "tsp" },
+      { "name": "peanuts (roasted & powdered)", "quantity": 2, "unit": "tbsp" },
+      { "name": "sesame seeds (roasted & powdered)", "quantity": 1, "unit": "tbsp" },
+      { "name": "tamarind extract", "quantity": 2, "unit": "tbsp" },
+      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil", "quantity": 3, "unit": "tbsp" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
     ],
     "steps": [
-      "Scramble eggs and set aside.",
-      "Stir-fry chicken, then vegetables.",
-      "Add rice and soy sauce; toss.",
-      "Add eggs back and serve."
+      "Slit brinjals into a cross pattern from the bottom, keeping the stem intact. Soak in salted water to prevent discoloration.",
+      "Grind onion, ginger-garlic paste, red chili, coriander, cumin powders, peanut powder, sesame powder, and salt with a little water to a thick paste.",
+      "Stuff this paste generously into each brinjal. Keep any leftover paste aside.",
+      "Heat oil in a heavy-bottomed pan. Add mustard seeds and curry leaves. Once spluttering, carefully place the stuffed brinjals in the pan.",
+      "Cook covered on low heat, turning occasionally, until brinjals are partially cooked.",
+      "Add remaining paste, tamarind extract, and a cup of water. Cook covered until brinjals are fully tender and the gravy thickens.",
+      "Serve hot with rice or roti."
     ],
-    "nutrition": { "calories": 620, "protein": 36, "fat": 16, "carbs": 86 },
-    "substitutions": ["Use tamari for gluten-free.", "Add scallions or sesame oil."]
+    "nutrition": { "calories": 300, "protein": 10, "fat": 20, "carbs": 25 },
+    "substitutions": [
+      "Cashew powder can replace peanut powder for a richer texture.",
+      "Adjust spice levels as per preference."
+    ]
   },
   {
-    "id": "paneer-tikka",
-    "name": "Paneer Tikka",
-    "cuisine": "Indian",
-    "difficulty": "Medium",
-    "servings": 2,
-    "prep_time": 20,
-    "cook_time": 15,
-    "dietary": ["Vegetarian", "High-protein", "Gluten-free"],
-    "ingredients": [
-      { "name": "paneer", "quantity": 250, "unit": "g" },
-      { "name": "yogurt", "quantity": 100, "unit": "g" },
-      { "name": "garam masala", "quantity": 1, "unit": "tsp" },
-      { "name": "turmeric", "quantity": 0.5, "unit": "tsp" },
-      { "name": "lemon", "quantity": 0.5, "unit": "" }
-    ],
-    "steps": ["Marinate paneer in yogurt and spices.", "Skewer and grill until charred.", "Serve with lemon."],
-    "nutrition": { "calories": 420, "protein": 25, "fat": 28, "carbs": 14 },
-    "substitutions": ["Tofu instead of paneer for vegan.", "Add bell peppers and onion."]
-  },
-  {
-    "id": "fish-tacos",
-    "name": "Fish Tacos",
-    "cuisine": "Mexican",
-    "difficulty": "Medium",
-    "servings": 2,
-    "prep_time": 15,
-    "cook_time": 10,
-    "dietary": [],
-    "ingredients": [
-      { "name": "white fish", "quantity": 250, "unit": "g" },
-      { "name": "tortillas", "quantity": 6, "unit": "small" },
-      { "name": "cabbage", "quantity": 100, "unit": "g" },
-      { "name": "lime", "quantity": 1, "unit": "" },
-      { "name": "yogurt", "quantity": 100, "unit": "g" }
-    ],
-    "steps": [
-      "Season and pan-fry fish.",
-      "Make lime yogurt sauce.",
-      "Assemble tacos with cabbage.",
-      "Serve with lime."
-    ],
-    "nutrition": { "calories": 520, "protein": 30, "fat": 18, "carbs": 58 },
-    "substitutions": ["Use corn tortillas.", "Add avocado."]
-  },
-  {
-    "id": "stuffed-peppers",
-    "name": "Stuffed Bell Peppers",
-    "cuisine": "Global",
+    "id": "kakarakaya-fry-telugu",
+    "name": "Kakarakaya Fry (Bitter Gourd Stir-Fry)",
+    "cuisine": "Telugu",
     "difficulty": "Medium",
     "servings": 2,
     "prep_time": 20,
     "cook_time": 30,
-    "dietary": ["Gluten-free"],
+    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy"],
     "ingredients": [
-      { "name": "bell pepper", "quantity": 2, "unit": "" },
-      { "name": "rice", "quantity": 150, "unit": "g" },
-      { "name": "ground beef", "quantity": 200, "unit": "g" },
-      { "name": "tomato", "quantity": 1, "unit": "" },
-      { "name": "onion", "quantity": 0.5, "unit": "" }
+      { "name": "bitter gourd", "quantity": 2, "unit": "medium" },
+      { "name": "onion", "quantity": 0.5, "unit": "" },
+      { "name": "green chilies", "quantity": 2, "unit": "" },
+      { "name": "red chili powder", "quantity": 1, "unit": "tsp" },
+      { "name": "coriander powder", "quantity": 1.5, "unit": "tsp" },
+      { "name": "turmeric powder", "quantity": 0.25, "unit": "tsp" },
+      { "name": "peanut powder", "quantity": 2, "unit": "tbsp" },
+      { "name": "oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "cumin seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
     ],
-    "steps": ["Cook rice.", "Brown beef with onion.", "Mix with tomato; stuff peppers.", "Bake until tender."],
-    "nutrition": { "calories": 560, "protein": 30, "fat": 20, "carbs": 70 },
-    "substitutions": ["Use quinoa.", "Substitute beef with turkey."]
+    "steps": [
+      "Wash bitter gourds, scrape off bumps (optional), slice thinly, and remove seeds. Mix with salt and turmeric, let sit for 20 mins. Squeeze out bitter juice.",
+      "Heat oil in a pan. Add mustard seeds, cumin seeds, and curry leaves. Let them splutter.",
+      "Add chopped onion and green chilies. Sauté until onion is translucent.",
+      "Add the squeezed bitter gourd slices. Fry on medium heat, stirring occasionally, until they are crisp and golden brown.",
+      "Add red chili powder, coriander powder, and peanut powder. Mix well and fry for another 5 minutes.",
+      "Serve hot with rice or roti."
+    ],
+    "nutrition": { "calories": 220, "protein": 6, "fat": 15, "carbs": 18 },
+    "substitutions": [
+      "To reduce bitterness further, blanch the bitter gourd slices before frying.",
+      "Add a pinch of jaggery at the end to balance the flavors."
+    ]
   },
   {
-    "id": "oatmeal-bowl",
-    "name": "Oatmeal Power Bowl",
-    "cuisine": "American",
-    "difficulty": "Easy",
-    "servings": 1,
-    "prep_time": 5,
-    "cook_time": 5,
+    "id": "ulava-charu-telugu",
+    "name": "Ulava Charu (Horse Gram Soup/Rasam)",
+    "cuisine": "Telugu",
+    "difficulty": "Hard",
+    "servings": 4,
+    "prep_time": 360,
+    "cook_time": 90,
+    "dietary": ["Vegetarian", "Gluten-free", "Healthy", "High-protein"],
+    "ingredients": [
+      { "name": "horse gram (ulavalu)", "quantity": 1, "unit": "cup" },
+      { "name": "tamarind", "quantity": 1, "unit": "small ball" },
+      { "name": "green chilies", "quantity": 4, "unit": "" },
+      { "name": "garlic", "quantity": 6, "unit": "cloves" },
+      { "name": "cumin seeds", "quantity": 1, "unit": "tsp" },
+      { "name": "coriander seeds", "quantity": 1, "unit": "tsp" },
+      { "name": "red chilies (dry)", "quantity": 2, "unit": "" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
+      { "name": "oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Wash and soak horse gram overnight. Pressure cook with 4 cups water until very soft (about 8-10 whistles). Strain the liquid (this is the Ulava Charu base) and keep the cooked dal aside for another dish.",
+      "Soak tamarind in warm water, extract pulp.",
+      "Dry roast cumin seeds, coriander seeds, and dry red chilies. Grind with green chilies and half the garlic cloves to a fine paste.",
+      "In a pot, combine the Ulava Charu base, tamarind pulp, ground spice paste, and salt. Bring to a boil and simmer for 30-45 minutes, allowing flavors to deepen.",
+      "For tempering: Heat oil. Add mustard seeds, remaining crushed garlic, and curry leaves. Let them splutter.",
+      "Pour the tempering into the simmering Ulava Charu. Stir and serve hot with plain rice and a dollop of ghee."
+    ],
+    "nutrition": { "calories": 180, "protein": 10, "fat": 8, "carbs": 20 },
+    "substitutions": [
+      "Can be made thicker by adding a little cornflour slurry at the end.",
+      "A pinch of jaggery can be added for a hint of sweetness."
+    ]
+  },
+  {
+    "id": "boorelu-telugu",
+    "name": "Boorelu (Sweet Lentil Dumplings)",
+    "cuisine": "Telugu",
+    "difficulty": "Hard",
+    "servings": 10,
+    "prep_time": 240,
+    "cook_time": 30,
     "dietary": ["Vegetarian"],
     "ingredients": [
-      { "name": "oats", "quantity": 50, "unit": "g" },
-      { "name": "milk", "quantity": 200, "unit": "ml" },
-      { "name": "banana", "quantity": 0.5, "unit": "" },
-      { "name": "peanut butter", "quantity": 1, "unit": "tbsp" }
+      { "name": "urad dal", "quantity": 0.5, "unit": "cup" },
+      { "name": "rice flour", "quantity": 0.5, "unit": "cup" },
+      { "name": "chana dal", "quantity": 0.5, "unit": "cup" },
+      { "name": "jaggery (grated)", "quantity": 0.75, "unit": "cup" },
+      { "name": "cardamom powder", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil", "quantity": null, "unit": "for deep frying" },
+      { "name": "salt", "quantity": null, "unit": "a pinch" }
     ],
-    "steps": ["Cook oats with milk.", "Top with banana and peanut butter.", "Serve warm."],
-    "nutrition": { "calories": 380, "protein": 14, "fat": 12, "carbs": 54 },
-    "substitutions": ["Use almond milk.", "Add chia seeds."]
+    "steps": [
+      "Wash and soak urad dal and rice for 4 hours. Grind to a smooth, thick batter with a pinch of salt. Set aside.",
+      "Wash and cook chana dal until soft but not mushy. Drain excess water.",
+      "In a pan, combine cooked chana dal, grated jaggery, and cardamom powder. Cook on low heat, stirring continuously, until jaggery melts and the mixture thickens into a firm dough-like consistency. Let it cool.",
+      "Make small lemon-sized balls from the chana dal-jaggery mixture.",
+      "Dip each ball in the urad dal-rice batter, ensuring it's fully coated.",
+      "Deep fry in hot oil until golden brown and crispy.",
+      "Serve warm."
+    ],
+    "nutrition": { "calories": 180, "protein": 5, "fat": 10, "carbs": 20 },
+    "substitutions": [
+      "For a healthier version, shallow fry or bake after brushing with ghee (though texture will differ).",
+      "Add a pinch of nutmeg powder to the filling."
+    "image": "https://example.com/boorelu.jpg"
+    ]
   },
   {
-    "id": "cauliflower-rice-bowl",
-    "name": "Cauliflower Rice Bowl",
-    "cuisine": "Global",
+    "id": "mirchi-bajji-telugu",
+    "name": "Mirchi Bajji (Chilli Fritters)",
+    "cuisine": "Telugu",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Snack"],
+    "ingredients": [
+      { "name": "large green chilies (bajji mirchi)", "quantity": 8, "unit": "pieces" },
+      { "name": "besan (chickpea flour)", "quantity": 1, "unit": "cup" },
+      { "name": "rice flour", "quantity": 2, "unit": "tbsp" },
+      { "name": "baking soda", "quantity": 0.25, "unit": "tsp" },
+      { "name": "red chili powder", "quantity": 0.5, "unit": "tsp" },
+      { "name": "ajwain (carom seeds)", "quantity": 0.5, "unit": "tsp" },
+      { "name": "water", "quantity": null, "unit": "as needed" },
+      { "name": "oil", "quantity": null, "unit": "for deep frying" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Wash green chilies, slit them lengthwise, and remove seeds (optional, for less spice).",
+      "In a bowl, combine besan, rice flour, baking soda, red chili powder, ajwain, and salt. Add water gradually to make a thick, smooth batter.",
+      "Heat oil for deep frying.",
+      "Dip each green chili in the batter, ensuring it's fully coated. Carefully drop into hot oil.",
+      "Deep fry until golden brown and crispy. Remove with a slotted spoon and drain excess oil.",
+      "Serve hot with a sprinkle of chaat masala or finely chopped onion-coriander filling."
+    ],
+    "nutrition": { "calories": 150, "protein": 5, "fat": 10, "carbs": 12 },
+    "substitutions": [
+      "For a healthier version, air fry or shallow fry with minimal oil (texture will vary).",
+      "Add a pinch of ginger-garlic paste to the batter for extra flavor."
+    ]
+  },
+  {
+    "id": "pesarapappu-charu-telugu",
+    "name": "Pesarapappu Charu (Moong Dal Rasam)",
+    "cuisine": "Telugu",
+    "difficulty": "Easy",
+    "servings": 3,
+    "prep_time": 10,
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy", "High-protein"],
+    "ingredients": [
+      { "name": "moong dal (split yellow lentils)", "quantity": 0.5, "unit": "cup" },
+      { "name": "tamarind extract", "quantity": 2, "unit": "tbsp" },
+      { "name": "green chilies", "quantity": 2, "unit": "" },
+      { "name": "cumin seeds", "quantity": 1, "unit": "tsp" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves" },
+      { "name": "turmeric powder", "quantity": 0.25, "unit": "tsp" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
+      { "name": "asafoetida", "quantity": 0.25, "unit": "tsp" },
+      { "name": "coriander leaves (chopped)", "quantity": 2, "unit": "tbsp" },
+      { "name": "oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "water", "quantity": 3, "unit": "cups" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Wash moong dal and pressure cook with 1.5 cups water and turmeric until soft. Mash well.",
+      "In a pot, combine mashed dal, tamarind extract, slit green chilies, and 1.5 cups water. Bring to a boil and simmer for 10 minutes.",
+      "Meanwhile, crush garlic and cumin seeds together.",
+      "For tempering: Heat oil. Add mustard seeds, crushed garlic-cumin, curry leaves, and asafoetida. Let them splutter.",
+      "Add tempering to the simmering dal mixture. Season with salt. Garnish with chopped coriander leaves and serve hot."
+    ],
+    "nutrition": { "calories": 160, "protein": 9, "fat": 6, "carbs": 18 },
+    "substitutions": [
+      "Can add a small chopped tomato while simmering for extra flavor.",
+      "Adjust spice levels by varying green chilies."
+    ]
+  },
+  {
+    "id": "medu-vada-telugu",
+    "name": "Medu Vada (Savory Lentil Doughnuts)",
+    "cuisine": "Telugu",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prep_time": 180,
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Snack"],
+    "ingredients": [
+      { "name": "urad dal", "quantity": 1, "unit": "cup" },
+      { "name": "onion (finely chopped)", "quantity": 0.25, "unit": "cup" },
+      { "name": "green chilies (finely chopped)", "quantity": 2, "unit": "" },
+      { "name": "ginger (grated)", "quantity": 1, "unit": "tsp" },
+      { "name": "curry leaves (chopped)", "quantity": 1, "unit": "tbsp" },
+      { "name": "peppercorns (crushed)", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil", "quantity": null, "unit": "for deep frying" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Wash and soak urad dal for at least 3 hours. Drain completely.",
+      "Grind the dal with minimal water to a very smooth, thick, and fluffy batter. Add salt and mix well.",
+      "Add chopped onion, green chilies, grated ginger, curry leaves, and crushed peppercorns to the batter. Mix gently.",
+      "Heat oil for deep frying. Wet your hands, take a small portion of batter, make a ball, flatten it, and make a hole in the center.",
+      "Carefully drop the vada into hot oil. Fry until golden brown and crispy.",
+      "Serve hot with sambar and coconut chutney."
+    ],
+    "nutrition": { "calories": 200, "protein": 10, "fat": 12, "carbs": 15 },
+    "substitutions": [
+      "For healthier option, air fry or shallow fry after brushing with oil.",
+      "Add a pinch of baking soda for extra crispness (optional)."
+    ]
+  },
+  {
+    "id": "upma-telugu",
+    "name": "Upma (Savory Semolina Porridge)",
+    "cuisine": "Telugu",
     "difficulty": "Easy",
     "servings": 2,
     "prep_time": 10,
-    "cook_time": 10,
-    "dietary": ["Vegan", "Vegetarian", "Gluten-free", "Low-carb"],
+    "cook_time": 15,
+    "dietary": ["Vegetarian", "Healthy", "Breakfast"],
     "ingredients": [
-      { "name": "cauliflower rice", "quantity": 300, "unit": "g" },
-      { "name": "peas", "quantity": 100, "unit": "g" },
-      { "name": "carrot", "quantity": 1, "unit": "" },
-      { "name": "soy sauce", "quantity": 1, "unit": "tbsp" }
+      { "name": "semolina (rava)", "quantity": 1, "unit": "cup" },
+      { "name": "onion (chopped)", "quantity": 0.5, "unit": "" },
+      { "name": "green chilies (slit)", "quantity": 2, "unit": "" },
+      { "name": "ginger (grated)", "quantity": 0.5, "unit": "tsp" },
+      { "name": "carrots (finely chopped)", "quantity": 0.25, "unit": "cup" },
+      { "name": "peas", "quantity": 0.25, "unit": "cup" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "urad dal", "quantity": 0.5, "unit": "tsp" },
+      { "name": "chana dal", "quantity": 0.5, "unit": "tsp" },
+      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
+      { "name": "oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "water", "quantity": 2, "unit": "cups" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
     ],
-    "steps": ["Sauté cauliflower rice.", "Add vegetables and sauce.", "Cook until tender-crisp."],
-    "nutrition": { "calories": 220, "protein": 8, "fat": 4, "carbs": 36 },
-    "substitutions": ["Tamari for gluten-free.", "Add tofu for protein."]
+    "steps": [
+      "Dry roast semolina in a pan until lightly golden and aromatic. Set aside.",
+      "Heat oil in the same pan. Add mustard seeds, urad dal, and chana dal. Fry until dals turn golden.",
+      "Add chopped onion, green chilies, grated ginger, and curry leaves. Sauté until onion is translucent.",
+      "Add chopped carrots and peas. Sauté for 2-3 minutes.",
+      "Pour in water and bring to a rolling boil. Add salt.",
+      "Gradually add the roasted semolina, stirring continuously to prevent lumps. Cook, stirring occasionally, until water is absorbed and upma is cooked through.",
+      "Serve hot with pickle or chutney."
+    ],
+    "nutrition": { "calories": 280, "protein": 8, "fat": 8, "carbs": 45 },
+    "substitutions": [
+      "Add roasted peanuts or cashews for extra crunch.",
+      "Garnish with chopped coriander leaves."
+    ]
+  },
+  {
+    "id": "pulihora-telugu",
+    "name": "Chintapandu Pulihora (Tamarind Rice)",
+    "cuisine": "Telugu",
+    "difficulty": "Medium",
+    "servings": 3,
+    "prep_time": 15,
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy"],
+    "ingredients": [
+      { "name": "cooked rice (cooled)", "quantity": 3, "unit": "cups" },
+      { "name": "tamarind (small ball)", "quantity": 1, "unit": "" },
+      { "name": "peanut oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "mustard seeds", "quantity": 1, "unit": "tsp" },
+      { "name": "urad dal", "quantity": 1, "unit": "tsp" },
+      { "name": "chana dal", "quantity": 1, "unit": "tsp" },
+      { "name": "peanuts", "quantity": 0.25, "unit": "cup" },
+      { "name": "dry red chilies", "quantity": 3, "unit": "" },
+      { "name": "green chilies", "quantity": 2, "unit": "" },
+      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
+      { "name": "asafoetida", "quantity": 0.25, "unit": "tsp" },
+      { "name": "turmeric powder", "quantity": 0.5, "unit": "tsp" },
+      { "name": "salt", "quantity": null, "unit": "to taste" }
+    ],
+    "steps": [
+      "Soak tamarind in warm water for 15 minutes and extract thick pulp.",
+      "Heat peanut oil in a large pan. Add mustard seeds. Once spluttering, add urad dal, chana dal, peanuts, and dry red chilies. Fry until dals are golden and peanuts are roasted.",
+      "Add green chilies, curry leaves, and asafoetida. Sauté for a minute.",
+      "Add turmeric powder and the tamarind pulp. Cook on medium heat, stirring, until the mixture thickens and oil separates from the edges.",
+      "Add the cooled rice and salt. Mix gently but thoroughly, ensuring the rice is coated evenly with the pulihora paste.",
+      "Serve warm."
+    ],
+    "nutrition": { "calories": 360, "protein": 7, "fat": 14, "carbs": 50 },
+    "substitutions": [
+      "Add a pinch of jaggery to balance the tanginess of tamarind.",
+      "Garnish with roasted cashews for richness."
+    ]
+  },
+  {
+    "id": "poornam-boorelu-telugu",
+    "name": "Poornam Boorelu (Sweet Festival Fritters)",
+    "cuisine": "Telugu",
+    "difficulty": "Hard",
+    "servings": 10,
+    "prep_time": 240,
+    "cook_time": 30,
+    "dietary": ["Vegetarian", "Dessert"],
+    "ingredients": [
+      { "name": "urad dal", "quantity": 0.5, "unit": "cup" },
+      { "name": "rice", "quantity": 0.5, "unit": "cup" },
+      { "name": "chana dal", "quantity": 0.5, "unit": "cup" },
+      { "name": "jaggery (grated)", "quantity": 0.75, "unit": "cup" },
+      { "name": "cardamom powder", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil", "quantity": null, "unit": "for deep frying" },
+      { "name": "salt", "quantity": null, "unit": "a pinch" }
+    ],
+    "steps": [
+      "Wash and soak urad dal and rice for 4 hours. Grind to a smooth, thick batter with a pinch of salt. Set aside.",
+      "Wash and cook chana dal until soft but not mushy. Drain excess water.",
+      "In a pan, combine cooked chana dal, grated jaggery, and cardamom powder. Cook on low heat, stirring continuously, until jaggery melts and the mixture thickens into a firm dough-like consistency. Let it cool.",
+      "Make small lemon-sized balls from the chana dal-jaggery mixture (poornam).",
+      "Dip each poornam ball in the urad dal-rice batter, ensuring it's fully coated. Carefully drop into hot oil.",
+      "Deep fry until golden brown and crispy.",
+      "Serve warm."
+    ],
+    "nutrition": { "calories": 180, "protein": 5, "fat": 10, "carbs": 20 },
+    "substitutions": [
+      "For a healthier version, shallow fry or bake after brushing with ghee (though texture will differ).",
+      "Add a pinch of nutmeg powder to the filling."
+    ]
+  },
+  {
+    "id": "kozhukattai-tamil",
+    "name": "Modak/Kozhukattai (Steamed Sweet Dumplings)",
+    "cuisine": "Tamil",
+    "difficulty": "Medium",
+    "servings": 8,
+    "prep_time": 30,
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy", "Snack"],
+    "ingredients": [
+      { "name": "rice flour", "quantity": 1, "unit": "cup" },
+      { "name": "water", "quantity": 1.5, "unit": "cups" },
+      { "name": "salt", "quantity": 0.25, "unit": "tsp" },
+      { "name": "sesame oil", "quantity": 1, "unit": "tsp" },
+      { "name": "grated jaggery", "quantity": 0.5, "unit": "cup" },
+      { "name": "fresh coconut (grated)", "quantity": 0.5, "unit": "cup" },
+      { "name": "cardamom powder", "quantity": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "For the outer cover: Bring water, salt, and sesame oil to a boil. Reduce heat, add rice flour, and stir vigorously to form a dough. Cover and let it cool slightly.",
+      "For the filling (poornam): In a pan, combine grated jaggery, grated coconut, and cardamom powder. Cook on low heat, stirring, until jaggery melts and mixture thickens. Let it cool.",
+      "Knead the rice flour dough until smooth. Take small portions, flatten into a disc, and place a spoonful of filling in the center.",
+      "Bring the edges together and seal to form a dumpling (or use a modak mold).",
+      "Steam the kozhukattai for 8-10 minutes until cooked and shiny.",
+      "Serve warm."
+    ],
+    "nutrition": { "calories": 150, "protein": 3, "fat": 6, "carbs": 22 },
+    "substitutions": [
+      "Sweetened condensed milk can be used in the filling for a richer taste.",
+      "Savory kozhukattai can be made with a vegetable filling."
+    ]
   }
-]
