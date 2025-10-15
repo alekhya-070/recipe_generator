@@ -1,463 +1,906 @@
 [
   {
-    "id": "pesarattu-telugu",
-    "name": "Pesarattu (Green Moong Dal Dosa)",
-    "cuisine": "Telugu",
-    "difficulty": "Easy",
-    "servings": 4,
-    "prep_time": 240,
-    "cook_time": 20,
-    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy", "High-protein"],
+    "id": "andhra-gongura-chicken",
+    "name": "Gongura Chicken (Andhra/Telugu)",
+    "cuisine": "Telugu (Andhra Pradesh)",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 25,
+    "dietary": ["High-protein", "Gluten-free"],
     "ingredients": [
-      { "name": "green moong dal (whole)", "quantity": 1, "unit": "cup" },
-      { "name": "rice flour", "quantity": 0.25, "unit": "cup" },
-      { "name": "ginger", "quantity": 1, "unit": "inch" },
-      { "name": "green chilies", "quantity": 2, "unit": "" },
-      { "name": "cumin seeds", "quantity": 1, "unit": "tsp" },
-      { "name": "finely chopped onion", "quantity": 0.5, "unit": "" },
-      { "name": "oil", "quantity": null, "unit": "for cooking" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "chicken pieces", "quantity": 300, "unit": "g" },
+      { "name": "gongura (sorrel leaves)", "quantity": 100, "unit": "g" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves" },
+      { "name": "red chili powder", "quantity": 1, "unit": "tsp" },
+      { "name": "turmeric", "quantity": 0.5, "unit": "tsp" },
+      { "name": "mustard oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" }
     ],
     "steps": [
-      "Wash and soak green moong dal for at least 4 hours or overnight.",
-      "Drain water. Grind the soaked dal, ginger, green chilies, and cumin seeds with minimal water to a smooth batter. Add rice flour and salt; mix well.",
-      "Heat a tawa. Pour a ladleful of batter and spread it into a thin dosa. Sprinkle chopped onion on top if desired.",
-      "Drizzle oil around the edges and cook until golden brown and crisp.",
-      "Serve hot with ginger chutney (allam pachadi)."
+      "Blanch and grind gongura leaves to a coarse paste.",
+      "Heat oil, sauté sliced onion, garlic until golden.",
+      "Add chicken, turmeric, chili powder and sear.",
+      "Stir in gongura paste, add a splash of water and simmer until chicken is cooked.",
+      "Adjust salt and serve hot with steamed rice."
     ],
-    "nutrition": { "calories": 320, "protein": 18, "fat": 8, "carbs": 45 },
+    "nutrition": { "calories": 420, "protein": 38, "fat": 20, "carbs": 6 },
     "substitutions": [
-      "Add a handful of finely chopped coriander leaves to the batter.",
-      "Serve with plain yogurt or sambar."
+      "Spinach can be used if gongura is unavailable (milder flavor).",
+      "Use ghee instead of mustard oil for milder taste."
     ]
   },
   {
-    "id": "gongura-pulihora-telugu",
-    "name": "Gongura Pulihora (Sorrel Leaves Rice)",
-    "cuisine": "Telugu",
+    "id": "chettinad-paneer",
+    "name": "Chettinad Paneer Curry (Tamil Nadu)",
+    "cuisine": "Tamil Nadu",
     "difficulty": "Medium",
-    "servings": 3,
+    "servings": 2,
     "prep_time": 15,
     "cook_time": 20,
-    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy"],
+    "dietary": ["Vegetarian", "High-protein"],
     "ingredients": [
-      { "name": "cooked rice (cooled)", "quantity": 3, "unit": "cups" },
-      { "name": "gongura leaves (sorrel)", "quantity": 2, "unit": "cups" },
-      { "name": "green chilies", "quantity": 4, "unit": "" },
-      { "name": "peanut oil", "quantity": 2, "unit": "tbsp" },
-      { "name": "mustard seeds", "quantity": 1, "unit": "tsp" },
-      { "name": "urad dal", "quantity": 1, "unit": "tsp" },
-      { "name": "chana dal", "quantity": 1, "unit": "tsp" },
-      { "name": "peanuts", "quantity": 0.25, "unit": "cup" },
-      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
-      { "name": "asafoetida", "quantity": 0.25, "unit": "tsp" },
-      { "name": "turmeric powder", "quantity": 0.5, "unit": "tsp" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "paneer", "quantity": 200, "unit": "g" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "tomato", "quantity": 1, "unit": "" },
+      { "name": "chettinad masala", "quantity": 1.5, "unit": "tbsp" },
+      { "name": "curry leaves", "quantity": 6, "unit": "leaves" },
+      { "name": "coconut oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" }
     ],
     "steps": [
-      "Wash gongura leaves thoroughly. Sauté them with 2 green chilies in a little oil until they wilt and soften. Cool and grind to a coarse paste.",
-      "Heat peanut oil in a large pan. Add mustard seeds, urad dal, chana dal, and peanuts. Fry until dals are golden and peanuts are roasted.",
-      "Add remaining green chilies, curry leaves, and asafoetida. Sauté for a minute.",
-      "Add turmeric powder and the gongura paste. Cook for 5-7 minutes, stirring, until oil separates.",
-      "Add the cooled rice and salt. Mix gently but thoroughly, ensuring the rice is coated evenly with the paste.",
-      "Serve warm."
+      "Sauté chopped onions in oil until translucent with curry leaves.",
+      "Add tomatoes and chettinad masala; cook until oil separates.",
+      "Add paneer cubes and simmer for 5–7 minutes.",
+      "Garnish with coriander and serve with idli/dosa or rice."
     ],
-    "nutrition": { "calories": 380, "protein": 7, "fat": 15, "carbs": 55 },
+    "nutrition": { "calories": 450, "protein": 20, "fat": 32, "carbs": 12 },
     "substitutions": [
-      "For extra tanginess, add a small piece of tamarind while grinding the gongura.",
-      "Garnish with roasted cashews."
+      "Tofu can replace paneer for a vegan version (use coconut yogurt).",
+      "Use less oil for a lighter curry."
     ]
   },
   {
-    "id": "gutti-vankaya-koora-telugu",
-    "name": "Gutti Vankaya Koora (Stuffed Brinjal Curry)",
-    "cuisine": "Telugu",
-    "difficulty": "Medium",
-    "servings": 4,
-    "prep_time": 25,
-    "cook_time": 40,
-    "dietary": ["Vegetarian", "Gluten-free", "Healthy"],
+    "id": "kerala-okra-poriyal",
+    "name": "Kerala Style Okra Poriyal (Kerala)",
+    "cuisine": "Kerala",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 12,
+    "dietary": ["Vegan", "Gluten-free", "Low-fat"],
     "ingredients": [
-      { "name": "small brinjals (eggplant)", "quantity": 8, "unit": "pieces" },
-      { "name": "onion", "quantity": 1, "unit": "medium" },
-      { "name": "ginger-garlic paste", "quantity": 1, "unit": "tbsp" },
-      { "name": "red chili powder", "quantity": 1.5, "unit": "tsp" },
-      { "name": "coriander powder", "quantity": 2, "unit": "tsp" },
-      { "name": "cumin powder", "quantity": 1, "unit": "tsp" },
-      { "name": "peanuts (roasted & powdered)", "quantity": 2, "unit": "tbsp" },
-      { "name": "sesame seeds (roasted & powdered)", "quantity": 1, "unit": "tbsp" },
-      { "name": "tamarind extract", "quantity": 2, "unit": "tbsp" },
-      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
+      { "name": "okra (bhindi)", "quantity": 250, "unit": "g" },
+      { "name": "grated coconut", "quantity": 30, "unit": "g" },
       { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
-      { "name": "oil", "quantity": 3, "unit": "tbsp" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "urad dal", "quantity": 1, "unit": "tsp" },
+      { "name": "curry leaves", "quantity": 8, "unit": "leaves" },
+      { "name": "coconut oil", "quantity": 1, "unit": "tsp" },
+      { "name": "salt", "quantity": 0.75, "unit": "tsp" }
     ],
     "steps": [
-      "Slit brinjals into a cross pattern from the bottom, keeping the stem intact. Soak in salted water to prevent discoloration.",
-      "Grind onion, ginger-garlic paste, red chili, coriander, cumin powders, peanut powder, sesame powder, and salt with a little water to a thick paste.",
-      "Stuff this paste generously into each brinjal. Keep any leftover paste aside.",
-      "Heat oil in a heavy-bottomed pan. Add mustard seeds and curry leaves. Once spluttering, carefully place the stuffed brinjals in the pan.",
-      "Cook covered on low heat, turning occasionally, until brinjals are partially cooked.",
-      "Add remaining paste, tamarind extract, and a cup of water. Cook covered until brinjals are fully tender and the gravy thickens.",
-      "Serve hot with rice or roti."
+      "Trim and slice okra lengthwise; keep dry to avoid sliminess.",
+      "Heat oil, temper mustard seeds and urad dal, add curry leaves.",
+      "Add okra and sauté on high heat until slightly charred and tender.",
+      "Mix in grated coconut and salt; cook 1–2 minutes and serve."
     ],
-    "nutrition": { "calories": 300, "protein": 10, "fat": 20, "carbs": 25 },
+    "nutrition": { "calories": 140, "protein": 4, "fat": 6, "carbs": 18 },
     "substitutions": [
-      "Cashew powder can replace peanut powder for a richer texture.",
-      "Adjust spice levels as per preference."
+      "Use sunflower oil instead of coconut oil.",
+      "Skip coconut for lower fat, add roasted peanuts for crunch."
     ]
   },
   {
-    "id": "kakarakaya-fry-telugu",
-    "name": "Kakarakaya Fry (Bitter Gourd Stir-Fry)",
-    "cuisine": "Telugu",
+    "id": "kannada-ragi-ragi-mudde",
+    "name": "Ragi Mudde with Sambar (Karnataka)",
+    "cuisine": "Karnataka",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Gluten-free", "High-fiber"],
+    "ingredients": [
+      { "name": "ragi flour (finger millet)", "quantity": 150, "unit": "g" },
+      { "name": "water", "quantity": 400, "unit": "ml" },
+      { "name": "sambar (store-bought or homemade)", "quantity": 300, "unit": "g" },
+      { "name": "salt", "quantity": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "Boil water with salt, reduce heat and add ragi flour gradually, stirring to form a smooth dough.",
+      "Knead well and shape into balls (mudde).",
+      "Serve hot with sambar and vegetable curry."
+    ],
+    "nutrition": { "calories": 360, "protein": 8, "fat": 4, "carbs": 70 },
+    "substitutions": [
+      "Use millet flour mix if ragi unavailable.",
+      "Pair with rasam for lighter option."
+    ]
+  },
+  {
+    "id": "maharashtrian-misal-pav-light",
+    "name": "Light Misal Pav (Maharashtra)",
+    "cuisine": "Maharashtra",
     "difficulty": "Medium",
     "servings": 2,
     "prep_time": 20,
-    "cook_time": 30,
-    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy"],
+    "cook_time": 25,
+    "dietary": ["Vegan", "High-protein"],
     "ingredients": [
-      { "name": "bitter gourd", "quantity": 2, "unit": "medium" },
-      { "name": "onion", "quantity": 0.5, "unit": "" },
-      { "name": "green chilies", "quantity": 2, "unit": "" },
-      { "name": "red chili powder", "quantity": 1, "unit": "tsp" },
-      { "name": "coriander powder", "quantity": 1.5, "unit": "tsp" },
-      { "name": "turmeric powder", "quantity": 0.25, "unit": "tsp" },
-      { "name": "peanut powder", "quantity": 2, "unit": "tbsp" },
-      { "name": "oil", "quantity": 2, "unit": "tbsp" },
-      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
-      { "name": "cumin seeds", "quantity": 0.5, "unit": "tsp" },
-      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "matki (moth beans) or sprouted matki", "quantity": 200, "unit": "g" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "tomato", "quantity": 1, "unit": "" },
+      { "name": "misal masala", "quantity": 1, "unit": "tbsp" },
+      { "name": "lemon", "quantity": 0.5, "unit": "" },
+      { "name": "oil", "quantity": 1, "unit": "tbsp" }
     ],
     "steps": [
-      "Wash bitter gourds, scrape off bumps (optional), slice thinly, and remove seeds. Mix with salt and turmeric, let sit for 20 mins. Squeeze out bitter juice.",
-      "Heat oil in a pan. Add mustard seeds, cumin seeds, and curry leaves. Let them splutter.",
-      "Add chopped onion and green chilies. Sauté until onion is translucent.",
-      "Add the squeezed bitter gourd slices. Fry on medium heat, stirring occasionally, until they are crisp and golden brown.",
-      "Add red chili powder, coriander powder, and peanut powder. Mix well and fry for another 5 minutes.",
-      "Serve hot with rice or roti."
+      "Sauté onions and tomatoes, add misal masala and cooked matki; simmer.",
+      "Top with chopped onions, farsan (optional) and lemon.",
+      "Serve with small whole-wheat pav or brown bread."
     ],
-    "nutrition": { "calories": 220, "protein": 6, "fat": 15, "carbs": 18 },
+    "nutrition": { "calories": 420, "protein": 20, "fat": 12, "carbs": 56 },
     "substitutions": [
-      "To reduce bitterness further, blanch the bitter gourd slices before frying.",
-      "Add a pinch of jaggery at the end to balance the flavors."
+      "Use sprouted moong instead of matki for milder taste.",
+      "Serve with phulkas for healthier carb choice."
     ]
   },
   {
-    "id": "ulava-charu-telugu",
-    "name": "Ulava Charu (Horse Gram Soup/Rasam)",
-    "cuisine": "Telugu",
-    "difficulty": "Hard",
-    "servings": 4,
-    "prep_time": 360,
-    "cook_time": 90,
-    "dietary": ["Vegetarian", "Gluten-free", "Healthy", "High-protein"],
-    "ingredients": [
-      { "name": "horse gram (ulavalu)", "quantity": 1, "unit": "cup" },
-      { "name": "tamarind", "quantity": 1, "unit": "small ball" },
-      { "name": "green chilies", "quantity": 4, "unit": "" },
-      { "name": "garlic", "quantity": 6, "unit": "cloves" },
-      { "name": "cumin seeds", "quantity": 1, "unit": "tsp" },
-      { "name": "coriander seeds", "quantity": 1, "unit": "tsp" },
-      { "name": "red chilies (dry)", "quantity": 2, "unit": "" },
-      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
-      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
-      { "name": "oil", "quantity": 1, "unit": "tbsp" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
-    ],
-    "steps": [
-      "Wash and soak horse gram overnight. Pressure cook with 4 cups water until very soft (about 8-10 whistles). Strain the liquid (this is the Ulava Charu base) and keep the cooked dal aside for another dish.",
-      "Soak tamarind in warm water, extract pulp.",
-      "Dry roast cumin seeds, coriander seeds, and dry red chilies. Grind with green chilies and half the garlic cloves to a fine paste.",
-      "In a pot, combine the Ulava Charu base, tamarind pulp, ground spice paste, and salt. Bring to a boil and simmer for 30-45 minutes, allowing flavors to deepen.",
-      "For tempering: Heat oil. Add mustard seeds, remaining crushed garlic, and curry leaves. Let them splutter.",
-      "Pour the tempering into the simmering Ulava Charu. Stir and serve hot with plain rice and a dollop of ghee."
-    ],
-    "nutrition": { "calories": 180, "protein": 10, "fat": 8, "carbs": 20 },
-    "substitutions": [
-      "Can be made thicker by adding a little cornflour slurry at the end.",
-      "A pinch of jaggery can be added for a hint of sweetness."
-    ]
-  },
-  {
-    "id": "boorelu-telugu",
-    "name": "Boorelu (Sweet Lentil Dumplings)",
-    "cuisine": "Telugu",
-    "difficulty": "Hard",
-    "servings": 10,
-    "prep_time": 240,
-    "cook_time": 30,
-    "dietary": ["Vegetarian"],
-    "ingredients": [
-      { "name": "urad dal", "quantity": 0.5, "unit": "cup" },
-      { "name": "rice flour", "quantity": 0.5, "unit": "cup" },
-      { "name": "chana dal", "quantity": 0.5, "unit": "cup" },
-      { "name": "jaggery (grated)", "quantity": 0.75, "unit": "cup" },
-      { "name": "cardamom powder", "quantity": 0.5, "unit": "tsp" },
-      { "name": "oil", "quantity": null, "unit": "for deep frying" },
-      { "name": "salt", "quantity": null, "unit": "a pinch" }
-    ],
-    "steps": [
-      "Wash and soak urad dal and rice for 4 hours. Grind to a smooth, thick batter with a pinch of salt. Set aside.",
-      "Wash and cook chana dal until soft but not mushy. Drain excess water.",
-      "In a pan, combine cooked chana dal, grated jaggery, and cardamom powder. Cook on low heat, stirring continuously, until jaggery melts and the mixture thickens into a firm dough-like consistency. Let it cool.",
-      "Make small lemon-sized balls from the chana dal-jaggery mixture.",
-      "Dip each ball in the urad dal-rice batter, ensuring it's fully coated.",
-      "Deep fry in hot oil until golden brown and crispy.",
-      "Serve warm."
-    ],
-    "nutrition": { "calories": 180, "protein": 5, "fat": 10, "carbs": 20 },
-    "substitutions": [
-      "For a healthier version, shallow fry or bake after brushing with ghee (though texture will differ).",
-      "Add a pinch of nutmeg powder to the filling."
-    "image": "https://example.com/boorelu.jpg"
-    ]
-  },
-  {
-    "id": "mirchi-bajji-telugu",
-    "name": "Mirchi Bajji (Chilli Fritters)",
-    "cuisine": "Telugu",
+    "id": "gujarati-khandvi-skillet",
+    "name": "Khandvi (Healthy Oven/Skillet) (Gujarat)",
+    "cuisine": "Gujarat",
     "difficulty": "Medium",
-    "servings": 4,
+    "servings": 2,
     "prep_time": 15,
-    "cook_time": 20,
-    "dietary": ["Vegetarian", "Snack"],
+    "cook_time": 15,
+    "dietary": ["Vegetarian", "Low-fat"],
     "ingredients": [
-      { "name": "large green chilies (bajji mirchi)", "quantity": 8, "unit": "pieces" },
-      { "name": "besan (chickpea flour)", "quantity": 1, "unit": "cup" },
-      { "name": "rice flour", "quantity": 2, "unit": "tbsp" },
-      { "name": "baking soda", "quantity": 0.25, "unit": "tsp" },
-      { "name": "red chili powder", "quantity": 0.5, "unit": "tsp" },
-      { "name": "ajwain (carom seeds)", "quantity": 0.5, "unit": "tsp" },
-      { "name": "water", "quantity": null, "unit": "as needed" },
-      { "name": "oil", "quantity": null, "unit": "for deep frying" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "besan (gram flour)", "quantity": 100, "unit": "g" },
+      { "name": "yogurt (low-fat)", "quantity": 200, "unit": "g" },
+      { "name": "turmeric", "quantity": 0.25, "unit": "tsp" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "grated coconut", "quantity": 10, "unit": "g" },
+      { "name": "coriander", "quantity": 5, "unit": "g" }
     ],
     "steps": [
-      "Wash green chilies, slit them lengthwise, and remove seeds (optional, for less spice).",
-      "In a bowl, combine besan, rice flour, baking soda, red chili powder, ajwain, and salt. Add water gradually to make a thick, smooth batter.",
-      "Heat oil for deep frying.",
-      "Dip each green chili in the batter, ensuring it's fully coated. Carefully drop into hot oil.",
-      "Deep fry until golden brown and crispy. Remove with a slotted spoon and drain excess oil.",
-      "Serve hot with a sprinkle of chaat masala or finely chopped onion-coriander filling."
+      "Whisk besan and yogurt with water to a smooth batter; add turmeric and salt.",
+      "Cook batter on low heat, stirring, until it thickens.",
+      "Spread thinly on a tray, cool slightly and roll into khandvi pieces.",
+      "Temper mustard seeds and pour over, garnish with coconut and coriander."
     ],
-    "nutrition": { "calories": 150, "protein": 5, "fat": 10, "carbs": 12 },
+    "nutrition": { "calories": 260, "protein": 12, "fat": 6, "carbs": 36 },
     "substitutions": [
-      "For a healthier version, air fry or shallow fry with minimal oil (texture will vary).",
-      "Add a pinch of ginger-garlic paste to the batter for extra flavor."
+      "Use plant-based yogurt for vegan version.",
+      "Bake thin layers to reduce oil usage."
     ]
   },
   {
-    "id": "pesarapappu-charu-telugu",
-    "name": "Pesarapappu Charu (Moong Dal Rasam)",
-    "cuisine": "Telugu",
+    "id": "punjabi-tandoori-chicken-light",
+    "name": "Tandoori Chicken (Light) (Punjab)",
+    "cuisine": "Punjab",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 20,
+    "cook_time": 25,
+    "dietary": ["High-protein", "Gluten-free"],
+    "ingredients": [
+      { "name": "chicken leg pieces", "quantity": 300, "unit": "g" },
+      { "name": "yogurt (low-fat)", "quantity": 100, "unit": "g" },
+      { "name": "tandoori masala", "quantity": 1, "unit": "tbsp" },
+      { "name": "ginger-garlic paste", "quantity": 1, "unit": "tbsp" },
+      { "name": "lemon", "quantity": 0.5, "unit": "" }
+    ],
+    "steps": [
+      "Marinate chicken in yogurt, tandoori masala, and ginger-garlic paste for at least 1 hour.",
+      "Bake or grill at high heat until charred and cooked through.",
+      "Serve with lemon wedges and salad."
+    ],
+    "nutrition": { "calories": 480, "protein": 42, "fat": 24, "carbs": 6 },
+    "substitutions": [
+      "Use paneer for vegetarian skewers.",
+      "Air-fry for reduced oil."
+    ]
+  },
+  {
+    "id": "rajasthani-kadhi-pakoda-lite",
+    "name": "Rajasthani Kadhi (Light) (Rajasthan)",
+    "cuisine": "Rajasthan",
+    "difficulty": "Medium",
+    "servings": 3,
+    "prep_time": 15,
+    "cook_time": 25,
+    "dietary": ["Vegetarian", "Gluten-free"],
+    "ingredients": [
+      { "name": "yogurt", "quantity": 300, "unit": "g" },
+      { "name": "besan (gram flour)", "quantity": 30, "unit": "g" },
+      { "name": "turmeric", "quantity": 0.25, "unit": "tsp" },
+      { "name": "asafoetida (hing)", "quantity": 0.25, "unit": "tsp" },
+      { "name": "cumin seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "mustard oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Whisk yogurt and besan to a smooth mixture; add turmeric and salt.",
+      "Cook the mixture gently until it thickens into kadhi consistency.",
+      "Temporarily skip deep-fried pakodas for a lighter version or bake small pakodas.",
+      "Temper with mustard oil, cumin and hing; garnish with coriander."
+    ],
+    "nutrition": { "calories": 200, "protein": 8, "fat": 8, "carbs": 22 },
+    "substitutions": [
+      "Bake pakodas using minimal oil.",
+      "Use low-fat yogurt to reduce calories."
+    ]
+  },
+  {
+    "id": "bengali-cholar-dal",
+    "name": "Cholar Dal with Coconut (Bengal)",
+    "cuisine": "West Bengal",
     "difficulty": "Easy",
     "servings": 3,
     "prep_time": 10,
-    "cook_time": 20,
-    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy", "High-protein"],
+    "cook_time": 25,
+    "dietary": ["Vegetarian", "Gluten-free"],
     "ingredients": [
-      { "name": "moong dal (split yellow lentils)", "quantity": 0.5, "unit": "cup" },
-      { "name": "tamarind extract", "quantity": 2, "unit": "tbsp" },
-      { "name": "green chilies", "quantity": 2, "unit": "" },
-      { "name": "cumin seeds", "quantity": 1, "unit": "tsp" },
-      { "name": "garlic", "quantity": 3, "unit": "cloves" },
-      { "name": "turmeric powder", "quantity": 0.25, "unit": "tsp" },
-      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
-      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
-      { "name": "asafoetida", "quantity": 0.25, "unit": "tsp" },
-      { "name": "coriander leaves (chopped)", "quantity": 2, "unit": "tbsp" },
-      { "name": "oil", "quantity": 1, "unit": "tbsp" },
-      { "name": "water", "quantity": 3, "unit": "cups" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "chana dal", "quantity": 200, "unit": "g" },
+      { "name": "coconut (grated)", "quantity": 30, "unit": "g" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" },
+      { "name": "panch phoron", "quantity": 0.5, "unit": "tsp" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "mustard oil", "quantity": 1, "unit": "tsp" }
     ],
     "steps": [
-      "Wash moong dal and pressure cook with 1.5 cups water and turmeric until soft. Mash well.",
-      "In a pot, combine mashed dal, tamarind extract, slit green chilies, and 1.5 cups water. Bring to a boil and simmer for 10 minutes.",
-      "Meanwhile, crush garlic and cumin seeds together.",
-      "For tempering: Heat oil. Add mustard seeds, crushed garlic-cumin, curry leaves, and asafoetida. Let them splutter.",
-      "Add tempering to the simmering dal mixture. Season with salt. Garnish with chopped coriander leaves and serve hot."
+      "Cook chana dal until soft but holding shape.",
+      "Temper panch phoron in oil, add ginger and green chili.",
+      "Add cooked dal and grated coconut; simmer for 5 minutes.",
+      "Serve with steamed rice or luchi."
     ],
-    "nutrition": { "calories": 160, "protein": 9, "fat": 6, "carbs": 18 },
+    "nutrition": { "calories": 360, "protein": 18, "fat": 10, "carbs": 46 },
     "substitutions": [
-      "Can add a small chopped tomato while simmering for extra flavor.",
-      "Adjust spice levels by varying green chilies."
+      "Use split moong for softer texture.",
+      "Use less oil for lighter version."
     ]
   },
   {
-    "id": "medu-vada-telugu",
-    "name": "Medu Vada (Savory Lentil Doughnuts)",
-    "cuisine": "Telugu",
+    "id": "odaia-paturi-style-fish",
+    "name": "Fish Paturi (Mustard-Banana Leaf) (Odisha)",
+    "cuisine": "Odisha",
     "difficulty": "Medium",
-    "servings": 4,
-    "prep_time": 180,
+    "servings": 2,
+    "prep_time": 15,
     "cook_time": 20,
-    "dietary": ["Vegetarian", "Snack"],
+    "dietary": ["High-protein", "Gluten-free"],
     "ingredients": [
-      { "name": "urad dal", "quantity": 1, "unit": "cup" },
-      { "name": "onion (finely chopped)", "quantity": 0.25, "unit": "cup" },
-      { "name": "green chilies (finely chopped)", "quantity": 2, "unit": "" },
-      { "name": "ginger (grated)", "quantity": 1, "unit": "tsp" },
-      { "name": "curry leaves (chopped)", "quantity": 1, "unit": "tbsp" },
-      { "name": "peppercorns (crushed)", "quantity": 0.5, "unit": "tsp" },
-      { "name": "oil", "quantity": null, "unit": "for deep frying" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "river fish fillets", "quantity": 300, "unit": "g" },
+      { "name": "mustard paste", "quantity": 1, "unit": "tbsp" },
+      { "name": "green chili paste", "quantity": 1, "unit": "tsp" },
+      { "name": "banana leaf (for wrapping)", "quantity": 2, "unit": "pieces" },
+      { "name": "turmeric", "quantity": 0.25, "unit": "tsp" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" }
     ],
     "steps": [
-      "Wash and soak urad dal for at least 3 hours. Drain completely.",
-      "Grind the dal with minimal water to a very smooth, thick, and fluffy batter. Add salt and mix well.",
-      "Add chopped onion, green chilies, grated ginger, curry leaves, and crushed peppercorns to the batter. Mix gently.",
-      "Heat oil for deep frying. Wet your hands, take a small portion of batter, make a ball, flatten it, and make a hole in the center.",
-      "Carefully drop the vada into hot oil. Fry until golden brown and crispy.",
-      "Serve hot with sambar and coconut chutney."
+      "Marinate fish with mustard paste, green chili paste, turmeric and salt.",
+      "Wrap fillets in banana leaf and secure with toothpicks.",
+      "Steam or bake until fish is cooked and aromatic.",
+      "Serve hot with rice."
     ],
-    "nutrition": { "calories": 200, "protein": 10, "fat": 12, "carbs": 15 },
+    "nutrition": { "calories": 300, "protein": 34, "fat": 12, "carbs": 2 },
     "substitutions": [
-      "For healthier option, air fry or shallow fry after brushing with oil.",
-      "Add a pinch of baking soda for extra crispness (optional)."
+      "Use light mustard paste (diluted) for milder flavor.",
+      "Aluminum foil if banana leaf unavailable."
     ]
   },
   {
-    "id": "upma-telugu",
-    "name": "Upma (Savory Semolina Porridge)",
-    "cuisine": "Telugu",
+    "id": "assamese-khar-vegetable",
+    "name": "Khar with Seasonal Vegetables (Assam)",
+    "cuisine": "Assam",
     "difficulty": "Easy",
     "servings": 2,
     "prep_time": 10,
     "cook_time": 15,
-    "dietary": ["Vegetarian", "Healthy", "Breakfast"],
+    "dietary": ["Vegan", "Gluten-free"],
     "ingredients": [
-      { "name": "semolina (rava)", "quantity": 1, "unit": "cup" },
-      { "name": "onion (chopped)", "quantity": 0.5, "unit": "" },
-      { "name": "green chilies (slit)", "quantity": 2, "unit": "" },
-      { "name": "ginger (grated)", "quantity": 0.5, "unit": "tsp" },
-      { "name": "carrots (finely chopped)", "quantity": 0.25, "unit": "cup" },
-      { "name": "peas", "quantity": 0.25, "unit": "cup" },
-      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
-      { "name": "urad dal", "quantity": 0.5, "unit": "tsp" },
-      { "name": "chana dal", "quantity": 0.5, "unit": "tsp" },
-      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
-      { "name": "oil", "quantity": 1, "unit": "tbsp" },
-      { "name": "water", "quantity": 2, "unit": "cups" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "khar (alkaline extract) or baking soda solution", "quantity": 1, "unit": "tsp" },
+      { "name": "pumpkin or raw banana", "quantity": 200, "unit": "g" },
+      { "name": "mustard oil", "quantity": 1, "unit": "tsp" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" }
     ],
     "steps": [
-      "Dry roast semolina in a pan until lightly golden and aromatic. Set aside.",
-      "Heat oil in the same pan. Add mustard seeds, urad dal, and chana dal. Fry until dals turn golden.",
-      "Add chopped onion, green chilies, grated ginger, and curry leaves. Sauté until onion is translucent.",
-      "Add chopped carrots and peas. Sauté for 2-3 minutes.",
-      "Pour in water and bring to a rolling boil. Add salt.",
-      "Gradually add the roasted semolina, stirring continuously to prevent lumps. Cook, stirring occasionally, until water is absorbed and upma is cooked through.",
-      "Serve hot with pickle or chutney."
+      "Cook chopped vegetables until nearly tender.",
+      "Add khar solution and simmer briefly — do not overcook.",
+      "Finish with mustard oil and green chili; serve with rice."
     ],
-    "nutrition": { "calories": 280, "protein": 8, "fat": 8, "carbs": 45 },
+    "nutrition": { "calories": 180, "protein": 3, "fat": 6, "carbs": 30 },
     "substitutions": [
-      "Add roasted peanuts or cashews for extra crunch.",
-      "Garnish with chopped coriander leaves."
+      "Use baking soda in water as a mild substitute (small amount).",
+      "Adjust vegetables based on seasonality."
     ]
   },
   {
-    "id": "pulihora-telugu",
-    "name": "Chintapandu Pulihora (Tamarind Rice)",
-    "cuisine": "Telugu",
+    "id": "goan-prawn-curry-light",
+    "name": "Goan Prawn Curry (Light Coconut) (Goa)",
+    "cuisine": "Goa",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "dietary": ["High-protein", "Gluten-free"],
+    "ingredients": [
+      { "name": "prawns", "quantity": 300, "unit": "g" },
+      { "name": "tamarind", "quantity": 1, "unit": "tsp" },
+      { "name": "light coconut milk", "quantity": 150, "unit": "ml" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "goan masala", "quantity": 1, "unit": "tsp" },
+      { "name": "coconut oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté onions and add prawns; cook until pink.",
+      "Add goan masala and tamarind, pour coconut milk and simmer briefly.",
+      "Do not overcook prawns; serve with brown rice or ragi bhakri."
+    ],
+    "nutrition": { "calories": 340, "protein": 36, "fat": 12, "carbs": 8 },
+    "substitutions": [
+      "Use fish fillet if prawns unavailable.",
+      "Use diluted coconut milk for lighter curry."
+    ]
+  },
+  {
+    "id": "kashmiri-rajma-hazara",
+    "name": "Rajma with Kashmiri Spices (Kashmir)",
+    "cuisine": "Kashmir",
     "difficulty": "Medium",
     "servings": 3,
     "prep_time": 15,
-    "cook_time": 20,
-    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy"],
+    "cook_time": 45,
+    "dietary": ["Vegetarian", "Gluten-free"],
     "ingredients": [
-      { "name": "cooked rice (cooled)", "quantity": 3, "unit": "cups" },
-      { "name": "tamarind (small ball)", "quantity": 1, "unit": "" },
-      { "name": "peanut oil", "quantity": 2, "unit": "tbsp" },
-      { "name": "mustard seeds", "quantity": 1, "unit": "tsp" },
-      { "name": "urad dal", "quantity": 1, "unit": "tsp" },
-      { "name": "chana dal", "quantity": 1, "unit": "tsp" },
-      { "name": "peanuts", "quantity": 0.25, "unit": "cup" },
-      { "name": "dry red chilies", "quantity": 3, "unit": "" },
-      { "name": "green chilies", "quantity": 2, "unit": "" },
-      { "name": "curry leaves", "quantity": 1, "unit": "sprig" },
-      { "name": "asafoetida", "quantity": 0.25, "unit": "tsp" },
-      { "name": "turmeric powder", "quantity": 0.5, "unit": "tsp" },
-      { "name": "salt", "quantity": null, "unit": "to taste" }
+      { "name": "kidney beans (rajma)", "quantity": 250, "unit": "g" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "kashmiri chili powder", "quantity": 1, "unit": "tsp" },
+      { "name": "garam masala", "quantity": 0.5, "unit": "tsp" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" }
     ],
     "steps": [
-      "Soak tamarind in warm water for 15 minutes and extract thick pulp.",
-      "Heat peanut oil in a large pan. Add mustard seeds. Once spluttering, add urad dal, chana dal, peanuts, and dry red chilies. Fry until dals are golden and peanuts are roasted.",
-      "Add green chilies, curry leaves, and asafoetida. Sauté for a minute.",
-      "Add turmeric powder and the tamarind pulp. Cook on medium heat, stirring, until the mixture thickens and oil separates from the edges.",
-      "Add the cooled rice and salt. Mix gently but thoroughly, ensuring the rice is coated evenly with the pulihora paste.",
-      "Serve warm."
+      "Soak and cook rajma until tender.",
+      "Sauté onion and ginger, add spices and cooked rajma.",
+      "Simmer to thicken and serve with steamed rice or naan."
     ],
-    "nutrition": { "calories": 360, "protein": 7, "fat": 14, "carbs": 50 },
+    "nutrition": { "calories": 420, "protein": 20, "fat": 6, "carbs": 70 },
     "substitutions": [
-      "Add a pinch of jaggery to balance the tanginess of tamarind.",
-      "Garnish with roasted cashews for richness."
+      "Use chickpeas for chole-style variation.",
+      "Reduce oil for lighter version."
     ]
   },
   {
-    "id": "poornam-boorelu-telugu",
-    "name": "Poornam Boorelu (Sweet Festival Fritters)",
-    "cuisine": "Telugu",
-    "difficulty": "Hard",
-    "servings": 10,
-    "prep_time": 240,
-    "cook_time": 30,
-    "dietary": ["Vegetarian", "Dessert"],
-    "ingredients": [
-      { "name": "urad dal", "quantity": 0.5, "unit": "cup" },
-      { "name": "rice", "quantity": 0.5, "unit": "cup" },
-      { "name": "chana dal", "quantity": 0.5, "unit": "cup" },
-      { "name": "jaggery (grated)", "quantity": 0.75, "unit": "cup" },
-      { "name": "cardamom powder", "quantity": 0.5, "unit": "tsp" },
-      { "name": "oil", "quantity": null, "unit": "for deep frying" },
-      { "name": "salt", "quantity": null, "unit": "a pinch" }
-    ],
-    "steps": [
-      "Wash and soak urad dal and rice for 4 hours. Grind to a smooth, thick batter with a pinch of salt. Set aside.",
-      "Wash and cook chana dal until soft but not mushy. Drain excess water.",
-      "In a pan, combine cooked chana dal, grated jaggery, and cardamom powder. Cook on low heat, stirring continuously, until jaggery melts and the mixture thickens into a firm dough-like consistency. Let it cool.",
-      "Make small lemon-sized balls from the chana dal-jaggery mixture (poornam).",
-      "Dip each poornam ball in the urad dal-rice batter, ensuring it's fully coated. Carefully drop into hot oil.",
-      "Deep fry until golden brown and crispy.",
-      "Serve warm."
-    ],
-    "nutrition": { "calories": 180, "protein": 5, "fat": 10, "carbs": 20 },
-    "substitutions": [
-      "For a healthier version, shallow fry or bake after brushing with ghee (though texture will differ).",
-      "Add a pinch of nutmeg powder to the filling."
-    ]
-  },
-  {
-    "id": "kozhukattai-tamil",
-    "name": "Modak/Kozhukattai (Steamed Sweet Dumplings)",
-    "cuisine": "Tamil",
+    "id": "himachali-chana-madra-light",
+    "name": "Chana Madra (Light Yogurt Chickpea Stew) (Himachal Pradesh)",
+    "cuisine": "Himachal Pradesh",
     "difficulty": "Medium",
-    "servings": 8,
-    "prep_time": 30,
-    "cook_time": 20,
-    "dietary": ["Vegetarian", "Vegan", "Gluten-free", "Healthy", "Snack"],
+    "servings": 3,
+    "prep_time": 15,
+    "cook_time": 30,
+    "dietary": ["Vegetarian", "Gluten-free"],
     "ingredients": [
-      { "name": "rice flour", "quantity": 1, "unit": "cup" },
-      { "name": "water", "quantity": 1.5, "unit": "cups" },
-      { "name": "salt", "quantity": 0.25, "unit": "tsp" },
-      { "name": "sesame oil", "quantity": 1, "unit": "tsp" },
-      { "name": "grated jaggery", "quantity": 0.5, "unit": "cup" },
-      { "name": "fresh coconut (grated)", "quantity": 0.5, "unit": "cup" },
-      { "name": "cardamom powder", "quantity": 0.5, "unit": "tsp" }
+      { "name": "chana (chickpeas)", "quantity": 250, "unit": "g" },
+      { "name": "yogurt (whisked)", "quantity": 150, "unit": "g" },
+      { "name": "cardamom powder", "quantity": 0.25, "unit": "tsp" },
+      { "name": "clove", "quantity": 1, "unit": "" },
+      { "name": "ghee", "quantity": 1, "unit": "tsp" }
     ],
     "steps": [
-      "For the outer cover: Bring water, salt, and sesame oil to a boil. Reduce heat, add rice flour, and stir vigorously to form a dough. Cover and let it cool slightly.",
-      "For the filling (poornam): In a pan, combine grated jaggery, grated coconut, and cardamom powder. Cook on low heat, stirring, until jaggery melts and mixture thickens. Let it cool.",
-      "Knead the rice flour dough until smooth. Take small portions, flatten into a disc, and place a spoonful of filling in the center.",
-      "Bring the edges together and seal to form a dumpling (or use a modak mold).",
-      "Steam the kozhukattai for 8-10 minutes until cooked and shiny.",
-      "Serve warm."
+      "Cook chickpeas until tender.",
+      "Lightly temper whole spices, add chickpeas and whisked yogurt, simmer gently.",
+      "Finish with a small amount of ghee and serve with rice or roti."
     ],
-    "nutrition": { "calories": 150, "protein": 3, "fat": 6, "carbs": 22 },
+    "nutrition": { "calories": 420, "protein": 18, "fat": 10, "carbs": 62 },
     "substitutions": [
-      "Sweetened condensed milk can be used in the filling for a richer taste.",
-      "Savory kozhukattai can be made with a vegetable filling."
+      "Use low-fat yogurt to reduce calories.",
+      "Add vegetables like pumpkin for variation."
+    ]
+  },
+  {
+    "id": "konkani-vegetable-xacuti-lite",
+    "name": "Vegetable Xacuti (Light) (Konkani/Goa-Mangalorean influence)",
+    "cuisine": "Konkani",
+    "difficulty": "Medium",
+    "servings": 3,
+    "prep_time": 20,
+    "cook_time": 25,
+    "dietary": ["Vegetarian", "Gluten-free"],
+    "ingredients": [
+      { "name": "mixed vegetables (carrot, beans, potato)", "quantity": 300, "unit": "g" },
+      { "name": "roasted coconut", "quantity": 30, "unit": "g" },
+      { "name": "poppy seeds", "quantity": 1, "unit": "tsp" },
+      { "name": "xakut (spice blend) or garam masala", "quantity": 1, "unit": "tbsp" },
+      { "name": "coconut oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Cook vegetables until almost tender.",
+      "Add ground roasted coconut-poppy seed paste and xacuti masala; simmer until vegetables are done.",
+      "Serve with red rice or steamed rice."
+    ],
+    "nutrition": { "calories": 320, "protein": 6, "fat": 12, "carbs": 46 },
+    "substitutions": [
+      "Use sunflower oil instead of coconut oil.",
+      "Skip potatoes to reduce carbs."
+    ]
+  },
+  {
+    "id": "hyderabadi-brinjal-bharta",
+    "name": "Baghara Baingan (Hyderabadi Brinjal Curry) (Telangana/Hyderabad)",
+    "cuisine": "Hyderabad (Telangana)",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Gluten-free"],
+    "ingredients": [
+      { "name": "small eggplants", "quantity": 300, "unit": "g" },
+      { "name": "peanut paste", "quantity": 2, "unit": "tbsp" },
+      { "name": "tamarind", "quantity": 1, "unit": "tsp" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "ginger-garlic paste", "quantity": 1, "unit": "tsp" },
+      { "name": "oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Roast or char eggplants and peel roughly.",
+      "Sauté onions and ginger-garlic paste, add peanut paste and tamarind.",
+      "Add eggplant, simmer and mash slightly; cook until flavors blend.",
+      "Serve with steamed rice or roti."
+    ],
+    "nutrition": { "calories": 280, "protein": 6, "fat": 18, "carbs": 22 },
+    "substitutions": [
+      "Use roasted sesame paste for nuttier flavor.",
+      "Use less oil for lighter version."
+    ]
+  },
+  {
+    "id": "mangalorean-jeerakai-puliyam",
+    "name": "Jeerakai Puliyam (Cumin-Tamarind Rice) (Mangalore/Coastal Karnataka)",
+    "cuisine": "Coastal Karnataka",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "dietary": ["Vegetarian", "Gluten-free", "Low-fuss"],
+    "ingredients": [
+      { "name": "cooked rice", "quantity": 300, "unit": "g" },
+      { "name": "tamarind paste", "quantity": 1, "unit": "tbsp" },
+      { "name": "jeera (cumin) seeds", "quantity": 1, "unit": "tsp" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Temper cumin and mustard in oil, add green chili and tamarind; cook briefly.",
+      "Toss in cooked rice gently until evenly coated.",
+      "Serve with papad or pickle."
+    ],
+    "nutrition": { "calories": 350, "protein": 6, "fat": 6, "carbs": 70 },
+    "substitutions": [
+      "Use brown rice for higher fiber.",
+      "Add roasted peanuts for crunch and protein."
+    ]
+  },
+  {
+    "id": "uttarakhand-bhut-jholi",
+    "name": "Bhutte Ka Kees Inspired (Uttarakhand-style Corn) (Uttarakhand/Hill)",
+    "cuisine": "Uttarakhand",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 12,
+    "dietary": ["Vegetarian"],
+    "ingredients": [
+      { "name": "grated sweet corn", "quantity": 250, "unit": "g" },
+      { "name": "milk", "quantity": 100, "unit": "ml" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "ghee", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté mustard seeds and green chili, add grated corn and a splash of milk.",
+      "Cook until corn is tender and slightly creamy.",
+      "Finish with a dollop of ghee and serve hot."
+    ],
+    "nutrition": { "calories": 240, "protein": 6, "fat": 8, "carbs": 36 },
+    "substitutions": [
+      "Use low-fat milk for lighter dish.",
+      "Add vegetables like peas for variety."
+    ]
+  },
+  {
+    "id": "manipur-izone-yumcha",
+    "name": "Ukthong Style Vegetable Stew (Manipur-inspired) (North East)",
+    "cuisine": "Manipur",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 20,
+    "dietary": ["Vegan", "Gluten-free"],
+    "ingredients": [
+      { "name": "seasonal greens", "quantity": 200, "unit": "g" },
+      { "name": "bamboo shoot (optional)", "quantity": 50, "unit": "g" },
+      { "name": "tofu", "quantity": 100, "unit": "g" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté ginger lightly, add vegetables and bamboo shoots if using.",
+      "Add water and simmer until vegetables are tender.",
+      "Add tofu towards the end and heat through; serve with rice."
+    ],
+    "nutrition": { "calories": 200, "protein": 10, "fat": 6, "carbs": 24 },
+    "substitutions": [
+      "Use mushrooms instead of tofu for umami flavor.",
+      "Add a squeeze of lime for brightness."
+    ]
+  },
+  {
+    "id": "tripura-tangy-bamboo-fish",
+    "name": "Bamboo Shoot Fish Curry (Tripura-style) (North East)",
+    "cuisine": "Tripura",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 15,
+    "dietary": ["High-protein", "Gluten-free"],
+    "ingredients": [
+      { "name": "fish pieces", "quantity": 300, "unit": "g" },
+      { "name": "bamboo shoots", "quantity": 80, "unit": "g" },
+      { "name": "panch phoron", "quantity": 0.5, "unit": "tsp" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "mustard oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Temper panch phoron in oil, add bamboo shoots and fish.",
+      "Add a little water and simmer until fish is cooked through.",
+      "Adjust salt and serve with rice."
+    ],
+    "nutrition": { "calories": 320, "protein": 34, "fat": 10, "carbs": 6 },
+    "substitutions": [
+      "Use light fish varieties like pomfret or surmai.",
+      "Replace mustard oil with neutral oil if preferred."
+    ]
+  },
+  {
+    "id": "sikkim-kinema-stir",
+    "name": "Kinema Stir-Fry (Sikkim-inspired Fermented Soy) (Sikkim)",
+    "cuisine": "Sikkim",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 12,
+    "cook_time": 10,
+    "dietary": ["Vegan", "High-protein"],
+    "ingredients": [
+      { "name": "kinema or fermented soybean", "quantity": 150, "unit": "g" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "soy sauce", "quantity": 1, "unit": "tsp" },
+      { "name": "oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté onion and green chili, add kinema and toss with soy sauce.",
+      "Cook for a few minutes until fragrant; serve with steamed rice."
+    ],
+    "nutrition": { "calories": 260, "protein": 20, "fat": 8, "carbs": 18 },
+    "substitutions": [
+      "Use tempeh or firm tofu if kinema unavailable.",
+      "Add vegetables like capsicum for crunch."
+    ]
+  },
+  {
+    "id": "maithili-sattu-litti-lite",
+    "name": "Sattu Litti (Baked/Lighter) (Bihar/Maithili)",
+    "cuisine": "Bihar",
+    "difficulty": "Medium",
+    "servings": 3,
+    "prep_time": 20,
+    "cook_time": 30,
+    "dietary": ["Vegetarian", "High-fiber"],
+    "ingredients": [
+      { "name": "sattu (roasted gram flour)", "quantity": 200, "unit": "g" },
+      { "name": "whole-wheat flour", "quantity": 200, "unit": "g" },
+      { "name": "carom seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil (for brushing)", "quantity": 1, "unit": "tbsp" },
+      { "name": "ginger", "quantity": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "Prepare dough with wheat flour and shape balls filled with spiced sattu mixture.",
+      "Bake or air-fry until golden instead of deep frying.",
+      "Serve with chokha (roasted brinjal/tomato mash) or curd."
+    ],
+    "nutrition": { "calories": 420, "protein": 14, "fat": 12, "carbs": 62 },
+    "substitutions": [
+      "Use millet flour for gluten-free option.",
+      "Add roasted peanuts to sattu for extra protein."
+    ]
+  },
+  {
+    "id": "bihari-daap-kebab-veg",
+    "name": "Vegetable Seekh (Bihar-style Lighter Kebabs)",
+    "cuisine": "Bihar",
+    "difficulty": "Medium",
+    "servings": 3,
+    "prep_time": 20,
+    "cook_time": 15,
+    "dietary": ["Vegan"],
+    "ingredients": [
+      { "name": "mixed grated vegetables (carrot, beans, peas)", "quantity": 300, "unit": "g" },
+      { "name": "besan", "quantity": 30, "unit": "g" },
+      { "name": "garam masala", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Mix vegetables with besan and spices, shape onto skewers.",
+      "Bake or grill until set and lightly charred.",
+      "Serve with mint chutney."
+    ],
+    "nutrition": { "calories": 220, "protein": 8, "fat": 8, "carbs": 30 },
+    "substitutions": [
+      "Use soya granules for higher protein.",
+      "Air-fry for minimal oil usage."
+    ]
+  },
+  {
+    "id": "sindhi-tindora-curry",
+    "name": "Sindhi Tindora (Dondakaya) Stir (Sindh/Western India influence)",
+    "cuisine": "Sindh / Western India",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 12,
+    "dietary": ["Vegan", "Low-fat"],
+    "ingredients": [
+      { "name": "tindora (ivy gourd)", "quantity": 250, "unit": "g" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "turmeric", "quantity": 0.25, "unit": "tsp" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté mustard seeds and onions, add sliced tindora and turmeric.",
+      "Cook on medium-high heat until tender and slightly charred.",
+      "Serve with roti or rice."
+    ],
+    "nutrition": { "calories": 140, "protein": 3, "fat": 4, "carbs": 26 },
+    "substitutions": [
+      "Use snake gourd or zucchini if tindora unavailable.",
+      "Add grated coconut for southern twist."
+    ]
+  },
+  {
+    "id": "marwari-kulcha-peas",
+    "name": "Marwari Matar Kulcha (Baked) (Marwar/Rajasthan)",
+    "cuisine": "Marwar (Rajasthan)",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 20,
+    "cook_time": 15,
+    "dietary": ["Vegetarian"],
+    "ingredients": [
+      { "name": "whole-wheat flour", "quantity": 200, "unit": "g" },
+      { "name": "green peas (cooked)", "quantity": 150, "unit": "g" },
+      { "name": "ajwain", "quantity": 0.25, "unit": "tsp" },
+      { "name": "oil (for brushing)", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Prepare dough and shallow-roll kulchas stuffed with spiced peas mixture.",
+      "Bake or tava-grill with minimal oil until golden.",
+      "Serve with curd or chutney."
+    ],
+    "nutrition": { "calories": 420, "protein": 12, "fat": 8, "carbs": 72 },
+    "substitutions": [
+      "Use millet flour for gluten-free alternative.",
+      "Air-fry for lower oil content."
+    ]
+  },
+  {
+    "id": "west-bengal-ilaichi-muri",
+    "name": "Light Muri Chaat with Peanuts (Bengal Street-style) (West Bengal)",
+    "cuisine": "West Bengal",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 0,
+    "dietary": ["Vegan"],
+    "ingredients": [
+      { "name": "puffed rice (muri)", "quantity": 150, "unit": "g" },
+      { "name": "roasted peanuts", "quantity": 30, "unit": "g" },
+      { "name": "onion (finely chopped)", "quantity": 0.5, "unit": "" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "lemon", "quantity": 0.5, "unit": "" }
+    ],
+    "steps": [
+      "Mix muri, peanuts, chopped onion and green chili.",
+      "Season with salt and lemon; toss and serve immediately."
+    ],
+    "nutrition": { "calories": 280, "protein": 8, "fat": 10, "carbs": 36 },
+    "substitutions": [
+      "Use roasted chana instead of peanuts for lower fat.",
+      "Add diced cucumber for freshness."
+    ]
+  },
+  {
+    "id": "andaman-crab-curry-lite",
+    "name": "Spiced Crab Curry (Andaman-style, light coconut) (Andaman & Nicobar)",
+    "cuisine": "Andaman & Nicobar",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 15,
+    "dietary": ["High-protein", "Gluten-free"],
+    "ingredients": [
+      { "name": "crab pieces", "quantity": 350, "unit": "g" },
+      { "name": "light coconut milk", "quantity": 100, "unit": "ml" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" },
+      { "name": "turmeric", "quantity": 0.25, "unit": "tsp" },
+      { "name": "oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté ginger and garlic, add crab and spices.",
+      "Pour coconut milk and simmer until crab is cooked.",
+      "Serve with steamed rice."
+    ],
+    "nutrition": { "calories": 340, "protein": 38, "fat": 12, "carbs": 6 },
+    "substitutions": [
+      "Use fish pieces for a milder curry.",
+      "Use less coconut milk for lighter dish."
+    ]
+  },
+  {
+    "id": "ladakhi-thukpa-veg-light",
+    "name": "Vegetable Thukpa (Light) (Ladakh/Himachal influence)",
+    "cuisine": "Ladakh",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 15,
+    "dietary": ["Vegan"],
+    "ingredients": [
+      { "name": "noodles (whole-wheat if possible)", "quantity": 150, "unit": "g" },
+      { "name": "mixed vegetables", "quantity": 200, "unit": "g" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" },
+      { "name": "soy sauce", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Cook vegetables in broth until tender.",
+      "Add noodles and seasoning; cook until noodles are done.",
+      "Serve hot with chopped scallions."
+    ],
+    "nutrition": { "calories": 320, "protein": 8, "fat": 6, "carbs": 58 },
+    "substitutions": [
+      "Use rice noodles for gluten-free option.",
+      "Add tofu for extra protein."
+    ]
+  },
+  {
+    "id": "nagaland-smoked-axone-tofu",
+    "name": "Smoked Tofu with Axone-flavored Broth (Nagaland-inspired) (North East)",
+    "cuisine": "Nagaland",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 12,
+    "dietary": ["Vegan", "High-protein"],
+    "ingredients": [
+      { "name": "smoked tofu", "quantity": 200, "unit": "g" },
+      { "name": "axone or fermented soybean paste (small amount)", "quantity": 0.5, "unit": "tsp" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "onion", "quantity": 1, "unit": "" }
+    ],
+    "steps": [
+      "Sauté onion and green chili, add axone paste sparingly for umami.",
+      "Add smoked tofu and simmer briefly; serve with rice."
+    ],
+    "nutrition": { "calories": 260, "protein": 20, "fat": 12, "carbs": 10 },
+    "substitutions": [
+      "Use tempeh as an alternative.",
+      "Skip axone if unavailable and add soy sauce for umami."
+    ]
+  },
+  {
+    "id": "mizoram-bai-vegetable",
+    "name": "Bai (Steamed Mixed Vegetable with Bamboo Shoot) (Mizoram)",
+    "cuisine": "Mizoram",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 12,
+    "cook_time": 12,
+    "dietary": ["Vegan", "Low-fat"],
+    "ingredients": [
+      { "name": "seasonal vegetables", "quantity": 300, "unit": "g" },
+      { "name": "bamboo shoot", "quantity": 50, "unit": "g" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" },
+      { "name": "salt", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Steam vegetables with bamboo shoots and ginger until tender.",
+      "Season lightly and serve with rice."
+    ],
+    "nutrition": { "calories": 160, "protein": 4, "fat": 2, "carbs": 34 },
+    "substitutions": [
+      "Use cabbage and potato if seasonal vegetables unavailable.",
+      "Add a teaspoon of soybean paste for umami."
+    ]
+  },
+  {
+    "id": "nagaland-yim-vegetable-stew",
+    "name": "Yim (Tangy Vegetable Stew) (Nagaland/Naga-style)",
+    "cuisine": "Naga",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 12,
+    "cook_time": 18,
+    "dietary": ["Vegan"],
+    "ingredients": [
+      { "name": "mixed vegetables (bottle gourd, potato)", "quantity": 300, "unit": "g" },
+      { "name": "fermented fish paste (optional small amount)", "quantity": 0.25, "unit": "tsp" },
+      { "name": "achar masala (mild)", "quantity": 0.5, "unit": "tsp" },
+      { "name": "oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté vegetables briefly, add water and simmer until soft.",
+      "Season with achar masala and (optional) fermented paste for depth.",
+      "Serve with rice."
+    ],
+    "nutrition": { "calories": 240, "protein": 5, "fat": 6, "carbs": 42 },
+    "substitutions": [
+      "Skip fermented paste for vegetarian/vegan.",
+      "Use local pickling spice blend for achar masala."
+    ]
+  },
+  {
+    "id": "andhra- pesarattu-dosa",
+    "name": "Pesarattu Dosa (Green Gram Crepes) (Andhra Pradesh)",
+    "cuisine": "Telugu (Andhra Pradesh)",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 10,
+    "dietary": ["Vegan", "Gluten-free", "High-protein"],
+    "ingredients": [
+      { "name": "whole green moong (soaked and ground)", "quantity": 200, "unit": "g" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" },
+      { "name": "green chili", "quantity": 1, "unit": "" },
+      { "name": "salt", "quantity": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "Grind soaked moong with ginger and green chili to a smooth batter; add salt.",
+      "Spread thin on a hot tava with minimal oil and cook until crisp.",
+      "Serve with upma or chutney."
+    ],
+    "nutrition": { "calories": 320, "protein": 18, "fat": 4, "carbs": 56 },
+    "substitutions": [
+      "Add rice a little for softer dosa.",
+      "Serve with vegetable upma for a balanced meal."
+    ]
+  },
+  {
+    "id": "tamil-poriyal-mixed-veg",
+    "name": "Mixed Vegetable Poriyal (Tamil Nadu)",
+    "cuisine": "Tamil Nadu",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 12,
+    "dietary": ["Vegetarian", "Low-fat"],
+    "ingredients": [
+      { "name": "mixed vegetables (beans, carrot, cabbage)", "quantity": 300, "unit": "g" },
+      { "name": "grated coconut", "quantity": 20, "unit": "g" },
+      { "name": "mustard seeds", "quantity": 0.5, "unit": "tsp" },
+      { "name": "urad dal", "quantity": 1, "unit": "tsp" },
+      { "name": "curry leaves", "quantity": 6, "unit": "leaves" },
+      { "name": "oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Temper mustard and urad dal, add vegetables and cook until tender.",
+      "Stir in grated coconut and serve with rice or rotis."
+    ],
+    "nutrition": { "calories": 180, "protein": 6, "fat": 6, "carbs": 28 },
+    "substitutions": [
+      "Use less coconut for lower fat.",
+      "Add roasted peanuts for protein."
     ]
   }
 ]
