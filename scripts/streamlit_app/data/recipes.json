@@ -1,0 +1,549 @@
+[
+  {
+    "id": "lemon-garlic-chicken",
+    "name": "Lemon Garlic Chicken",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 20,
+    "dietary": ["High-protein", "Low-carb", "Gluten-free"],
+    "ingredients": [
+      { "name": "chicken breast", "quantity": 2, "unit": "pieces" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves" },
+      { "name": "lemon", "quantity": 1, "unit": "" },
+      { "name": "olive oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "parsley", "quantity": 2, "unit": "tbsp" },
+      { "name": "salt", "quantity": 0.5, "unit": "tsp" },
+      { "name": "black pepper", "quantity": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "Pound chicken to even thickness.",
+      "Mix oil, lemon juice, minced garlic, salt, and pepper.",
+      "Coat chicken and marinate 10 minutes.",
+      "Sear chicken 4–5 minutes per side until cooked through.",
+      "Garnish with chopped parsley and serve."
+    ],
+    "nutrition": { "calories": 380, "protein": 45, "fat": 18, "carbs": 6 },
+    "substitutions": [
+      "Use chicken thighs instead of breast.",
+      "Swap parsley with cilantro or basil.",
+      "Butter can replace olive oil."
+    ]
+  },
+  {
+    "id": "garlic-shrimp-pasta",
+    "name": "Garlic Shrimp Pasta",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 15,
+    "dietary": [],
+    "ingredients": [
+      { "name": "spaghetti", "quantity": 200, "unit": "g" },
+      { "name": "shrimp", "quantity": 250, "unit": "g" },
+      { "name": "garlic", "quantity": 4, "unit": "cloves" },
+      { "name": "olive oil", "quantity": 2, "unit": "tbsp" },
+      { "name": "butter", "quantity": 1, "unit": "tbsp" },
+      { "name": "lemon", "quantity": 0.5, "unit": "" },
+      { "name": "parsley", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Cook pasta until al dente.",
+      "Sauté garlic in oil and butter.",
+      "Add shrimp and cook until pink.",
+      "Toss in pasta, lemon juice, and parsley.",
+      "Season and serve."
+    ],
+    "nutrition": { "calories": 520, "protein": 32, "fat": 18, "carbs": 62 },
+    "substitutions": [
+      "Use linguine or fettuccine instead of spaghetti.",
+      "Chicken can replace shrimp.",
+      "Add chili flakes for heat."
+    ]
+  },
+  {
+    "id": "veggie-stir-fry",
+    "name": "Veggie Stir-Fry",
+    "cuisine": "Asian",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 10,
+    "dietary": ["Vegan", "Vegetarian"],
+    "ingredients": [
+      { "name": "broccoli", "quantity": 150, "unit": "g" },
+      { "name": "bell pepper", "quantity": 1, "unit": "" },
+      { "name": "carrot", "quantity": 1, "unit": "" },
+      { "name": "soy sauce", "quantity": 2, "unit": "tbsp" },
+      { "name": "garlic", "quantity": 2, "unit": "cloves" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" },
+      { "name": "sesame oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Heat oil in a wok.",
+      "Add minced garlic and ginger.",
+      "Stir-fry vegetables until crisp-tender.",
+      "Add soy sauce and toss.",
+      "Serve with rice or noodles."
+    ],
+    "nutrition": { "calories": 220, "protein": 8, "fat": 7, "carbs": 32 },
+    "substitutions": ["Tamari for gluten-free soy sauce.", "Add tofu for protein.", "Use any seasonal vegetables."]
+  },
+  {
+    "id": "quinoa-salad",
+    "name": "Mediterranean Quinoa Salad",
+    "cuisine": "Mediterranean",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 15,
+    "dietary": ["Vegetarian", "Gluten-free"],
+    "ingredients": [
+      { "name": "quinoa", "quantity": 150, "unit": "g" },
+      { "name": "cucumber", "quantity": 0.5, "unit": "" },
+      { "name": "tomato", "quantity": 1, "unit": "" },
+      { "name": "red onion", "quantity": 0.25, "unit": "" },
+      { "name": "feta", "quantity": 60, "unit": "g" },
+      { "name": "olive oil", "quantity": 1, "unit": "tbsp" },
+      { "name": "lemon", "quantity": 0.5, "unit": "" }
+    ],
+    "steps": ["Cook quinoa and cool.", "Chop vegetables and feta.", "Toss with oil and lemon.", "Season and serve."],
+    "nutrition": { "calories": 420, "protein": 16, "fat": 14, "carbs": 56 },
+    "substitutions": ["Omit feta for vegan option.", "Add chickpeas for more protein.", "Use lime instead of lemon."]
+  },
+  {
+    "id": "tofu-curry",
+    "name": "Coconut Tofu Curry",
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 20,
+    "dietary": ["Vegan", "Vegetarian", "Gluten-free"],
+    "ingredients": [
+      { "name": "tofu", "quantity": 250, "unit": "g" },
+      { "name": "coconut milk", "quantity": 200, "unit": "ml" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "garam masala", "quantity": 1, "unit": "tsp" },
+      { "name": "curry powder", "quantity": 1, "unit": "tbsp" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves" },
+      { "name": "ginger", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté onion, garlic, and ginger.",
+      "Add spices and toast briefly.",
+      "Stir in coconut milk and simmer.",
+      "Add tofu cubes and cook until heated.",
+      "Serve with rice."
+    ],
+    "nutrition": { "calories": 480, "protein": 22, "fat": 28, "carbs": 36 },
+    "substitutions": ["Chickpeas instead of tofu.", "Use light coconut milk to reduce fat.", "Add spinach or peas."]
+  },
+  {
+    "id": "beef-tacos",
+    "name": "Beef Tacos",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "dietary": [],
+    "ingredients": [
+      { "name": "ground beef", "quantity": 250, "unit": "g" },
+      { "name": "taco seasoning", "quantity": 1, "unit": "tbsp" },
+      { "name": "tortillas", "quantity": 6, "unit": "small" },
+      { "name": "lettuce", "quantity": 2, "unit": "leaves" },
+      { "name": "tomato", "quantity": 1, "unit": "" },
+      { "name": "cheddar", "quantity": 60, "unit": "g" }
+    ],
+    "steps": ["Brown beef and add seasoning.", "Warm tortillas.", "Assemble with toppings.", "Serve immediately."],
+    "nutrition": { "calories": 650, "protein": 34, "fat": 32, "carbs": 55 },
+    "substitutions": ["Use turkey or beans for a lighter option.", "Corn tortillas for gluten-free."]
+  },
+  {
+    "id": "salmon-teriyaki",
+    "name": "Teriyaki Salmon",
+    "cuisine": "Japanese",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "dietary": ["High-protein"],
+    "ingredients": [
+      { "name": "salmon fillet", "quantity": 2, "unit": "pieces" },
+      { "name": "soy sauce", "quantity": 2, "unit": "tbsp" },
+      { "name": "mirin", "quantity": 1, "unit": "tbsp" },
+      { "name": "sugar", "quantity": 1, "unit": "tbsp" },
+      { "name": "garlic", "quantity": 1, "unit": "clove" }
+    ],
+    "steps": [
+      "Marinate salmon in teriyaki mixture.",
+      "Sear salmon until flaky.",
+      "Reduce sauce and glaze.",
+      "Serve with rice."
+    ],
+    "nutrition": { "calories": 520, "protein": 38, "fat": 26, "carbs": 24 },
+    "substitutions": ["Tamari for gluten-free.", "Honey instead of sugar."]
+  },
+  {
+    "id": "greek-salad",
+    "name": "Greek Salad",
+    "cuisine": "Greek",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 0,
+    "dietary": ["Vegetarian", "Gluten-free", "Low-carb"],
+    "ingredients": [
+      { "name": "cucumber", "quantity": 1, "unit": "" },
+      { "name": "tomato", "quantity": 2, "unit": "" },
+      { "name": "red onion", "quantity": 0.5, "unit": "" },
+      { "name": "feta", "quantity": 80, "unit": "g" },
+      { "name": "olives", "quantity": 50, "unit": "g" },
+      { "name": "olive oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": ["Chop vegetables.", "Toss with oil and season.", "Add feta and olives.", "Serve fresh."],
+    "nutrition": { "calories": 320, "protein": 10, "fat": 24, "carbs": 16 },
+    "substitutions": ["Omit feta for vegan option.", "Add chickpeas for protein."]
+  },
+  {
+    "id": "shakshuka",
+    "name": "Shakshuka",
+    "cuisine": "Middle Eastern",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 20,
+    "dietary": ["Vegetarian", "Gluten-free", "Low-carb"],
+    "ingredients": [
+      { "name": "eggs", "quantity": 4, "unit": "" },
+      { "name": "tomato", "quantity": 4, "unit": "" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves" },
+      { "name": "paprika", "quantity": 1, "unit": "tsp" },
+      { "name": "cumin", "quantity": 0.5, "unit": "tsp" }
+    ],
+    "steps": [
+      "Sauté onion and garlic.",
+      "Add tomatoes and spices; simmer.",
+      "Crack eggs into sauce.",
+      "Cover and cook until set.",
+      "Serve with bread."
+    ],
+    "nutrition": { "calories": 380, "protein": 20, "fat": 24, "carbs": 20 },
+    "substitutions": ["Add feta or spinach.", "Use canned tomatoes."]
+  },
+  {
+    "id": "lentil-soup",
+    "name": "Hearty Lentil Soup",
+    "cuisine": "Global",
+    "difficulty": "Easy",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 30,
+    "dietary": ["Vegan", "Vegetarian", "Gluten-free"],
+    "ingredients": [
+      { "name": "lentils", "quantity": 250, "unit": "g" },
+      { "name": "carrot", "quantity": 2, "unit": "" },
+      { "name": "celery", "quantity": 2, "unit": "stalks" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "garlic", "quantity": 3, "unit": "cloves" },
+      { "name": "vegetable broth", "quantity": 1, "unit": "L" }
+    ],
+    "steps": [
+      "Sauté onion, carrot, and celery.",
+      "Add garlic and lentils.",
+      "Pour broth and simmer until tender.",
+      "Season to taste."
+    ],
+    "nutrition": { "calories": 260, "protein": 14, "fat": 3, "carbs": 45 },
+    "substitutions": ["Add tomatoes for depth.", "Spinach near the end."]
+  },
+  {
+    "id": "avocado-toast",
+    "name": "Avocado Toast with Egg",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "servings": 1,
+    "prep_time": 5,
+    "cook_time": 5,
+    "dietary": ["Vegetarian"],
+    "ingredients": [
+      { "name": "bread", "quantity": 1, "unit": "slice" },
+      { "name": "avocado", "quantity": 0.5, "unit": "" },
+      { "name": "egg", "quantity": 1, "unit": "" },
+      { "name": "olive oil", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": ["Toast bread.", "Mash avocado on toast.", "Fry or poach egg.", "Top toast with egg, salt, and pepper."],
+    "nutrition": { "calories": 320, "protein": 12, "fat": 22, "carbs": 20 },
+    "substitutions": ["Use whole-grain bread.", "Add chili flakes or tomatoes."]
+  },
+  {
+    "id": "caprese-salad",
+    "name": "Caprese Salad",
+    "cuisine": "Italian",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 0,
+    "dietary": ["Vegetarian", "Gluten-free", "Low-carb"],
+    "ingredients": [
+      { "name": "tomato", "quantity": 2, "unit": "" },
+      { "name": "mozzarella", "quantity": 120, "unit": "g" },
+      { "name": "basil", "quantity": 10, "unit": "leaves" },
+      { "name": "olive oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": ["Slice tomatoes and mozzarella.", "Layer with basil.", "Drizzle oil and season."],
+    "nutrition": { "calories": 300, "protein": 16, "fat": 22, "carbs": 8 },
+    "substitutions": ["Use balsamic glaze.", "Add arugula for peppery bite."]
+  },
+  {
+    "id": "turkey-chili",
+    "name": "Turkey Chili",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 45,
+    "dietary": ["High-protein", "Gluten-free"],
+    "ingredients": [
+      { "name": "ground turkey", "quantity": 500, "unit": "g" },
+      { "name": "kidney beans", "quantity": 400, "unit": "g" },
+      { "name": "tomato", "quantity": 2, "unit": "" },
+      { "name": "onion", "quantity": 1, "unit": "" },
+      { "name": "chili powder", "quantity": 1, "unit": "tbsp" },
+      { "name": "cumin", "quantity": 1, "unit": "tsp" }
+    ],
+    "steps": ["Brown turkey with onion.", "Add spices and tomatoes.", "Stir in beans; simmer.", "Adjust seasoning."],
+    "nutrition": { "calories": 420, "protein": 35, "fat": 12, "carbs": 42 },
+    "substitutions": ["Use black beans.", "Add corn or bell pepper."]
+  },
+  {
+    "id": "miso-soup",
+    "name": "Miso Soup",
+    "cuisine": "Japanese",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 5,
+    "cook_time": 10,
+    "dietary": ["Vegetarian"],
+    "ingredients": [
+      { "name": "dashi broth", "quantity": 500, "unit": "ml" },
+      { "name": "miso paste", "quantity": 1, "unit": "tbsp" },
+      { "name": "tofu", "quantity": 100, "unit": "g" },
+      { "name": "scallions", "quantity": 2, "unit": "" }
+    ],
+    "steps": ["Warm dashi.", "Dissolve miso off heat.", "Add tofu and scallions.", "Serve hot."],
+    "nutrition": { "calories": 120, "protein": 9, "fat": 4, "carbs": 12 },
+    "substitutions": ["Add wakame seaweed.", "Use vegetable broth."]
+  },
+  {
+    "id": "chickpea-salad",
+    "name": "Chickpea Salad",
+    "cuisine": "Mediterranean",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 0,
+    "dietary": ["Vegan", "Vegetarian", "Gluten-free"],
+    "ingredients": [
+      { "name": "chickpeas", "quantity": 240, "unit": "g" },
+      { "name": "cucumber", "quantity": 0.5, "unit": "" },
+      { "name": "tomato", "quantity": 1, "unit": "" },
+      { "name": "red onion", "quantity": 0.25, "unit": "" },
+      { "name": "lemon", "quantity": 0.5, "unit": "" },
+      { "name": "olive oil", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": ["Rinse chickpeas.", "Chop vegetables.", "Toss with oil and lemon.", "Season and serve."],
+    "nutrition": { "calories": 380, "protein": 14, "fat": 10, "carbs": 58 },
+    "substitutions": ["Add herbs like parsley.", "Use lime instead of lemon."]
+  },
+  {
+    "id": "pesto-pasta",
+    "name": "Pesto Pasta",
+    "cuisine": "Italian",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 10,
+    "dietary": ["Vegetarian"],
+    "ingredients": [
+      { "name": "pasta", "quantity": 200, "unit": "g" },
+      { "name": "pesto", "quantity": 3, "unit": "tbsp" },
+      { "name": "parmesan", "quantity": 30, "unit": "g" }
+    ],
+    "steps": ["Cook pasta.", "Toss with pesto.", "Top with parmesan."],
+    "nutrition": { "calories": 560, "protein": 18, "fat": 20, "carbs": 78 },
+    "substitutions": ["Use whole-wheat pasta.", "Add cherry tomatoes."]
+  },
+  {
+    "id": "vegan-burrito-bowl",
+    "name": "Vegan Burrito Bowl",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 15,
+    "dietary": ["Vegan", "Vegetarian"],
+    "ingredients": [
+      { "name": "rice", "quantity": 150, "unit": "g" },
+      { "name": "black beans", "quantity": 240, "unit": "g" },
+      { "name": "corn", "quantity": 100, "unit": "g" },
+      { "name": "avocado", "quantity": 1, "unit": "" },
+      { "name": "salsa", "quantity": 3, "unit": "tbsp" }
+    ],
+    "steps": ["Cook rice.", "Warm beans and corn.", "Assemble with avocado and salsa.", "Season to taste."],
+    "nutrition": { "calories": 560, "protein": 16, "fat": 18, "carbs": 86 },
+    "substitutions": ["Use quinoa instead of rice.", "Add tofu or seitan."]
+  },
+  {
+    "id": "grilled-cheese-tomato-soup",
+    "name": "Grilled Cheese & Tomato Soup",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 5,
+    "cook_time": 15,
+    "dietary": ["Vegetarian"],
+    "ingredients": [
+      { "name": "bread", "quantity": 4, "unit": "slices" },
+      { "name": "cheddar", "quantity": 120, "unit": "g" },
+      { "name": "butter", "quantity": 2, "unit": "tbsp" },
+      { "name": "tomato soup", "quantity": 500, "unit": "ml" }
+    ],
+    "steps": ["Butter bread and add cheese.", "Grill until golden.", "Heat tomato soup.", "Serve together."],
+    "nutrition": { "calories": 700, "protein": 24, "fat": 40, "carbs": 60 },
+    "substitutions": ["Use sourdough.", "Add tomato slices."]
+  },
+  {
+    "id": "chicken-fried-rice",
+    "name": "Chicken Fried Rice",
+    "cuisine": "Chinese",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "dietary": [],
+    "ingredients": [
+      { "name": "rice", "quantity": 250, "unit": "g" },
+      { "name": "chicken breast", "quantity": 200, "unit": "g" },
+      { "name": "egg", "quantity": 2, "unit": "" },
+      { "name": "peas", "quantity": 80, "unit": "g" },
+      { "name": "carrot", "quantity": 1, "unit": "" },
+      { "name": "soy sauce", "quantity": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      "Scramble eggs and set aside.",
+      "Stir-fry chicken, then vegetables.",
+      "Add rice and soy sauce; toss.",
+      "Add eggs back and serve."
+    ],
+    "nutrition": { "calories": 620, "protein": 36, "fat": 16, "carbs": 86 },
+    "substitutions": ["Use tamari for gluten-free.", "Add scallions or sesame oil."]
+  },
+  {
+    "id": "paneer-tikka",
+    "name": "Paneer Tikka",
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 20,
+    "cook_time": 15,
+    "dietary": ["Vegetarian", "High-protein", "Gluten-free"],
+    "ingredients": [
+      { "name": "paneer", "quantity": 250, "unit": "g" },
+      { "name": "yogurt", "quantity": 100, "unit": "g" },
+      { "name": "garam masala", "quantity": 1, "unit": "tsp" },
+      { "name": "turmeric", "quantity": 0.5, "unit": "tsp" },
+      { "name": "lemon", "quantity": 0.5, "unit": "" }
+    ],
+    "steps": ["Marinate paneer in yogurt and spices.", "Skewer and grill until charred.", "Serve with lemon."],
+    "nutrition": { "calories": 420, "protein": 25, "fat": 28, "carbs": 14 },
+    "substitutions": ["Tofu instead of paneer for vegan.", "Add bell peppers and onion."]
+  },
+  {
+    "id": "fish-tacos",
+    "name": "Fish Tacos",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 10,
+    "dietary": [],
+    "ingredients": [
+      { "name": "white fish", "quantity": 250, "unit": "g" },
+      { "name": "tortillas", "quantity": 6, "unit": "small" },
+      { "name": "cabbage", "quantity": 100, "unit": "g" },
+      { "name": "lime", "quantity": 1, "unit": "" },
+      { "name": "yogurt", "quantity": 100, "unit": "g" }
+    ],
+    "steps": [
+      "Season and pan-fry fish.",
+      "Make lime yogurt sauce.",
+      "Assemble tacos with cabbage.",
+      "Serve with lime."
+    ],
+    "nutrition": { "calories": 520, "protein": 30, "fat": 18, "carbs": 58 },
+    "substitutions": ["Use corn tortillas.", "Add avocado."]
+  },
+  {
+    "id": "stuffed-peppers",
+    "name": "Stuffed Bell Peppers",
+    "cuisine": "Global",
+    "difficulty": "Medium",
+    "servings": 2,
+    "prep_time": 20,
+    "cook_time": 30,
+    "dietary": ["Gluten-free"],
+    "ingredients": [
+      { "name": "bell pepper", "quantity": 2, "unit": "" },
+      { "name": "rice", "quantity": 150, "unit": "g" },
+      { "name": "ground beef", "quantity": 200, "unit": "g" },
+      { "name": "tomato", "quantity": 1, "unit": "" },
+      { "name": "onion", "quantity": 0.5, "unit": "" }
+    ],
+    "steps": ["Cook rice.", "Brown beef with onion.", "Mix with tomato; stuff peppers.", "Bake until tender."],
+    "nutrition": { "calories": 560, "protein": 30, "fat": 20, "carbs": 70 },
+    "substitutions": ["Use quinoa.", "Substitute beef with turkey."]
+  },
+  {
+    "id": "oatmeal-bowl",
+    "name": "Oatmeal Power Bowl",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "servings": 1,
+    "prep_time": 5,
+    "cook_time": 5,
+    "dietary": ["Vegetarian"],
+    "ingredients": [
+      { "name": "oats", "quantity": 50, "unit": "g" },
+      { "name": "milk", "quantity": 200, "unit": "ml" },
+      { "name": "banana", "quantity": 0.5, "unit": "" },
+      { "name": "peanut butter", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": ["Cook oats with milk.", "Top with banana and peanut butter.", "Serve warm."],
+    "nutrition": { "calories": 380, "protein": 14, "fat": 12, "carbs": 54 },
+    "substitutions": ["Use almond milk.", "Add chia seeds."]
+  },
+  {
+    "id": "cauliflower-rice-bowl",
+    "name": "Cauliflower Rice Bowl",
+    "cuisine": "Global",
+    "difficulty": "Easy",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 10,
+    "dietary": ["Vegan", "Vegetarian", "Gluten-free", "Low-carb"],
+    "ingredients": [
+      { "name": "cauliflower rice", "quantity": 300, "unit": "g" },
+      { "name": "peas", "quantity": 100, "unit": "g" },
+      { "name": "carrot", "quantity": 1, "unit": "" },
+      { "name": "soy sauce", "quantity": 1, "unit": "tbsp" }
+    ],
+    "steps": ["Sauté cauliflower rice.", "Add vegetables and sauce.", "Cook until tender-crisp."],
+    "nutrition": { "calories": 220, "protein": 8, "fat": 4, "carbs": 36 },
+    "substitutions": ["Tamari for gluten-free.", "Add tofu for protein."]
+  }
+]
